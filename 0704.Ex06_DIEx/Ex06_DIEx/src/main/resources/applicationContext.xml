@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="employee1" class="kr.human.di.vo.Employee">
+		<property name="name" value="John"></property>
+		<property name="employeeID" value="211"></property>
+		<property name="department" value="Penetration testing"></property>
+	</bean>
+
+	<bean id="employee2" class="kr.human.di.vo.Employee">
+		<property name="name" value="Max"></property>
+		<property name="employeeID" value="212"></property>
+		<property name="department" value="Ethical hacking"></property>
+	</bean>
+
+	<bean id="company" class="kr.human.di.vo.Company">
+		<property name="companyName" value="GeeksForGeeks"></property>
+		<property name="employees">
+			<list>
+				<ref bean="employee1" />
+				<ref bean="employee2" />
+			</list>
+		</property>
+	</bean>
+
+</beans>

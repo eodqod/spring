@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- AnswerVO 등록 -->
+	<bean name="ans" class="kr.human.di.vo.AnswerVO">
+		<constructor-arg value="1"/>
+		<constructor-arg value="자바"/>
+		<constructor-arg value="11/02/2022"/>
+	</bean>
+	
+	<!-- UserVO 등록 -->
+	<bean name="user" class="kr.human.di.vo.UserVO">
+		<constructor-arg value="1"/>
+		<constructor-arg value="한사람"/>
+		<constructor-arg value="hansaram@gmail.com"/>
+	</bean>
+	
+	<!-- QuestionVO 등록 -->
+	<bean name="quest1" class="kr.human.di.vo.QuestionVO">
+		<constructor-arg value="1"/>
+		<constructor-arg value="한사람"/>
+		<constructor-arg>
+			<map>
+				<entry key-ref="ans" value-ref="user"/>
+			</map>
+		</constructor-arg>
+	</bean>
+	
+	<bean name="map" class="java.util.HashMap">
+		<constructor-arg>
+			<map>
+				<entry key-ref="ans" value-ref="user"/>
+			</map>
+		</constructor-arg>
+	</bean>
+	<bean name="quest2" class="kr.human.di.vo.QuestionVO">
+		<constructor-arg value="2"/>
+		<constructor-arg value="두사람"/>
+		<constructor-arg ref="map"/>
+	</bean>
+	
+</beans>

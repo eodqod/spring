@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- 싱글톤 클래스의 객체 등록 -->
+	<bean name="geeks" class="kr.human.di.vo.Geeks" factory-method="getInstance"/>
+	<bean name="geeks2" class="kr.human.di.vo.Geeks"/>
+
+</beans>

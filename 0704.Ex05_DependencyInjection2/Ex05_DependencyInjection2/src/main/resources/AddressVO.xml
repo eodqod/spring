@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean name="addr1" class="kr.human.di.vo.AddressVO">
+		<constructor-arg value="수원시"/>
+		<constructor-arg value="팔달구"/>
+		<constructor-arg value="조선민주주의인민공화국"/>
+	</bean>
+	
+	<bean name="addr2" class="kr.human.di.vo.AddressVO">
+		<constructor-arg value="조선민주주의인민공화국"/>
+		<constructor-arg value="수원시"/>
+		<constructor-arg value="팔달구"/>
+	</bean>
+	
+	<bean name="addr3" class="kr.human.di.vo.AddressVO">
+		<constructor-arg value="조선민주주의인민공화국" index="2"/>
+		<constructor-arg value="수원시" index="0"/>
+		<constructor-arg value="팔달구" index="1"/>
+	</bean>
+	
+</beans>
