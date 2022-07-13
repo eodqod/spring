@@ -1,0 +1,5003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hanjaList>
+	<hanjaVO idx="1">
+		<h>天</h>
+		<k>천</k>
+		<m>하늘 천</m>
+	</hanjaVO>
+	<hanjaVO idx="2">
+		<h>地</h>
+		<k>지</k>
+		<m>땅 지</m>
+	</hanjaVO>
+	<hanjaVO idx="3">
+		<h>玄</h>
+		<k>현</k>
+		<m>검을 현</m>
+	</hanjaVO>
+	<hanjaVO idx="4">
+		<h>黃</h>
+		<k>황</k>
+		<m>누를 황</m>
+	</hanjaVO>
+	<hanjaVO idx="5">
+		<h>宇</h>
+		<k>우</k>
+		<m>집 우</m>
+	</hanjaVO>
+	<hanjaVO idx="6">
+		<h>宙</h>
+		<k>주</k>
+		<m>집 주</m>
+	</hanjaVO>
+	<hanjaVO idx="7">
+		<h>洪</h>
+		<k>홍</k>
+		<m>넓을 홍</m>
+	</hanjaVO>
+	<hanjaVO idx="8">
+		<h>荒</h>
+		<k>황</k>
+		<m>거칠 황</m>
+	</hanjaVO>
+	<hanjaVO idx="9">
+		<h>日</h>
+		<k>일</k>
+		<m>날 일</m>
+	</hanjaVO>
+	<hanjaVO idx="10">
+		<h>月</h>
+		<k>월</k>
+		<m>달 월</m>
+	</hanjaVO>
+	<hanjaVO idx="11">
+		<h>盈</h>
+		<k>영</k>
+		<m>찰 영</m>
+	</hanjaVO>
+	<hanjaVO idx="12">
+		<h>昃</h>
+		<k>측</k>
+		<m>기울 측</m>
+	</hanjaVO>
+	<hanjaVO idx="13">
+		<h>辰</h>
+		<k>진</k>
+		<m>별 진</m>
+	</hanjaVO>
+	<hanjaVO idx="14">
+		<h>宿</h>
+		<k>숙</k>
+		<m>잘 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="15">
+		<h>列</h>
+		<k>열</k>
+		<m>벌일 열</m>
+	</hanjaVO>
+	<hanjaVO idx="16">
+		<h>張</h>
+		<k>장</k>
+		<m>베풀 장</m>
+	</hanjaVO>
+	<hanjaVO idx="17">
+		<h>寒</h>
+		<k>한</k>
+		<m>찰 한</m>
+	</hanjaVO>
+	<hanjaVO idx="18">
+		<h>來</h>
+		<k>래</k>
+		<m>올 래</m>
+	</hanjaVO>
+	<hanjaVO idx="19">
+		<h>暑</h>
+		<k>서</k>
+		<m>더울 서</m>
+	</hanjaVO>
+	<hanjaVO idx="20">
+		<h>往</h>
+		<k>왕</k>
+		<m>갈 왕</m>
+	</hanjaVO>
+	<hanjaVO idx="21">
+		<h>秋</h>
+		<k>추</k>
+		<m>가을 추</m>
+	</hanjaVO>
+	<hanjaVO idx="22">
+		<h>收</h>
+		<k>수</k>
+		<m>거둘 수</m>
+	</hanjaVO>
+	<hanjaVO idx="23">
+		<h>冬</h>
+		<k>동</k>
+		<m>겨울 동</m>
+	</hanjaVO>
+	<hanjaVO idx="24">
+		<h>藏</h>
+		<k>장</k>
+		<m>감출 장</m>
+	</hanjaVO>
+	<hanjaVO idx="25">
+		<h>閏</h>
+		<k>윤</k>
+		<m>윤달 윤</m>
+	</hanjaVO>
+	<hanjaVO idx="26">
+		<h>餘</h>
+		<k>여</k>
+		<m>남을 여</m>
+	</hanjaVO>
+	<hanjaVO idx="27">
+		<h>成</h>
+		<k>성</k>
+		<m>이룰 성</m>
+	</hanjaVO>
+	<hanjaVO idx="28">
+		<h>歲</h>
+		<k>세</k>
+		<m>해 세</m>
+	</hanjaVO>
+	<hanjaVO idx="29">
+		<h>律</h>
+		<k>율</k>
+		<m>가락 률</m>
+	</hanjaVO>
+	<hanjaVO idx="30">
+		<h>呂</h>
+		<k>려</k>
+		<m>음률 려</m>
+	</hanjaVO>
+	<hanjaVO idx="31">
+		<h>調</h>
+		<k>조</k>
+		<m>고를 조</m>
+	</hanjaVO>
+	<hanjaVO idx="32">
+		<h>陽</h>
+		<k>양</k>
+		<m>볕 양</m>
+	</hanjaVO>
+	<hanjaVO idx="33">
+		<h>雲</h>
+		<k>운</k>
+		<m>구름 운</m>
+	</hanjaVO>
+	<hanjaVO idx="34">
+		<h>騰</h>
+		<k>등</k>
+		<m>오를 등</m>
+	</hanjaVO>
+	<hanjaVO idx="35">
+		<h>致</h>
+		<k>치</k>
+		<m>이를 치</m>
+	</hanjaVO>
+	<hanjaVO idx="36">
+		<h>雨</h>
+		<k>우</k>
+		<m>비 우</m>
+	</hanjaVO>
+	<hanjaVO idx="37">
+		<h>露</h>
+		<k>노</k>
+		<m>이슬 로</m>
+	</hanjaVO>
+	<hanjaVO idx="38">
+		<h>結</h>
+		<k>결</k>
+		<m>맺을 결</m>
+	</hanjaVO>
+	<hanjaVO idx="39">
+		<h>爲</h>
+		<k>위</k>
+		<m>할 위</m>
+	</hanjaVO>
+	<hanjaVO idx="40">
+		<h>霜</h>
+		<k>상</k>
+		<m>서리 상</m>
+	</hanjaVO>
+	<hanjaVO idx="41">
+		<h>金</h>
+		<k>금</k>
+		<m>쇠 금</m>
+	</hanjaVO>
+	<hanjaVO idx="42">
+		<h>生</h>
+		<k>생</k>
+		<m>낳을 생</m>
+	</hanjaVO>
+	<hanjaVO idx="43">
+		<h>麗</h>
+		<k>여</k>
+		<m>고울 려</m>
+	</hanjaVO>
+	<hanjaVO idx="44">
+		<h>水</h>
+		<k>수</k>
+		<m>물 수</m>
+	</hanjaVO>
+	<hanjaVO idx="45">
+		<h>玉</h>
+		<k>옥</k>
+		<m>구슬 옥</m>
+	</hanjaVO>
+	<hanjaVO idx="46">
+		<h>出</h>
+		<k>출</k>
+		<m>날 출</m>
+	</hanjaVO>
+	<hanjaVO idx="47">
+		<h>崑</h>
+		<k>곤</k>
+		<m>메 곤</m>
+	</hanjaVO>
+	<hanjaVO idx="48">
+		<h>岡</h>
+		<k>강</k>
+		<m>메 강</m>
+	</hanjaVO>
+	<hanjaVO idx="49">
+		<h>劍</h>
+		<k>검</k>
+		<m>칼 검</m>
+	</hanjaVO>
+	<hanjaVO idx="50">
+		<h>號</h>
+		<k>호</k>
+		<m>이름 호</m>
+	</hanjaVO>
+	<hanjaVO idx="51">
+		<h>巨</h>
+		<k>거</k>
+		<m>클 거</m>
+	</hanjaVO>
+	<hanjaVO idx="52">
+		<h>闕</h>
+		<k>궐</k>
+		<m>대궐 궐</m>
+	</hanjaVO>
+	<hanjaVO idx="53">
+		<h>珠</h>
+		<k>주</k>
+		<m>구슬 주</m>
+	</hanjaVO>
+	<hanjaVO idx="54">
+		<h>稱</h>
+		<k>칭</k>
+		<m>일컬을 칭</m>
+	</hanjaVO>
+	<hanjaVO idx="55">
+		<h>夜</h>
+		<k>야</k>
+		<m>밤 야</m>
+	</hanjaVO>
+	<hanjaVO idx="56">
+		<h>光</h>
+		<k>광</k>
+		<m>빛 광</m>
+	</hanjaVO>
+	<hanjaVO idx="57">
+		<h>果</h>
+		<k>과</k>
+		<m>과실 과</m>
+	</hanjaVO>
+	<hanjaVO idx="58">
+		<h>珍</h>
+		<k>진</k>
+		<m>보배 진</m>
+	</hanjaVO>
+	<hanjaVO idx="59">
+		<h>李</h>
+		<k>이</k>
+		<m>오얏 리</m>
+	</hanjaVO>
+	<hanjaVO idx="60">
+		<h>柰</h>
+		<k>내</k>
+		<m>능금나무 내</m>
+	</hanjaVO>
+	<hanjaVO idx="61">
+		<h>菜</h>
+		<k>채</k>
+		<m>나물 채</m>
+	</hanjaVO>
+	<hanjaVO idx="62">
+		<h>重</h>
+		<k>중</k>
+		<m>무거울 중</m>
+	</hanjaVO>
+	<hanjaVO idx="63">
+		<h>芥</h>
+		<k>개</k>
+		<m>겨자 개</m>
+	</hanjaVO>
+	<hanjaVO idx="64">
+		<h>薑</h>
+		<k>강</k>
+		<m>생강 강</m>
+	</hanjaVO>
+	<hanjaVO idx="65">
+		<h>海</h>
+		<k>해</k>
+		<m>바다 해</m>
+	</hanjaVO>
+	<hanjaVO idx="66">
+		<h>鹹</h>
+		<k>함</k>
+		<m>짤 함</m>
+	</hanjaVO>
+	<hanjaVO idx="67">
+		<h>河</h>
+		<k>하</k>
+		<m>물 하</m>
+	</hanjaVO>
+	<hanjaVO idx="68">
+		<h>淡</h>
+		<k>담</k>
+		<m>묽을 담</m>
+	</hanjaVO>
+	<hanjaVO idx="69">
+		<h>鱗</h>
+		<k>인</k>
+		<m>비늘 린</m>
+	</hanjaVO>
+	<hanjaVO idx="70">
+		<h>潛</h>
+		<k>잠</k>
+		<m>잠길 잠</m>
+	</hanjaVO>
+	<hanjaVO idx="71">
+		<h>羽</h>
+		<k>우</k>
+		<m>깃 우</m>
+	</hanjaVO>
+	<hanjaVO idx="72">
+		<h>翔</h>
+		<k>상</k>
+		<m>높이 날 상</m>
+	</hanjaVO>
+	<hanjaVO idx="73">
+		<h>龍</h>
+		<k>용</k>
+		<m>용 룡</m>
+	</hanjaVO>
+	<hanjaVO idx="74">
+		<h>師</h>
+		<k>사</k>
+		<m>스승 사</m>
+	</hanjaVO>
+	<hanjaVO idx="75">
+		<h>火</h>
+		<k>화</k>
+		<m>불 화</m>
+	</hanjaVO>
+	<hanjaVO idx="76">
+		<h>帝</h>
+		<k>제</k>
+		<m>임금 제</m>
+	</hanjaVO>
+	<hanjaVO idx="77">
+		<h>鳥</h>
+		<k>조</k>
+		<m>새 조</m>
+	</hanjaVO>
+	<hanjaVO idx="78">
+		<h>官</h>
+		<k>관</k>
+		<m>벼슬 관</m>
+	</hanjaVO>
+	<hanjaVO idx="79">
+		<h>人</h>
+		<k>인</k>
+		<m>사람 인</m>
+	</hanjaVO>
+	<hanjaVO idx="80">
+		<h>皇</h>
+		<k>황</k>
+		<m>임금 황</m>
+	</hanjaVO>
+	<hanjaVO idx="81">
+		<h>始</h>
+		<k>시</k>
+		<m>처음 시</m>
+	</hanjaVO>
+	<hanjaVO idx="82">
+		<h>制</h>
+		<k>제</k>
+		<m>지을 제</m>
+	</hanjaVO>
+	<hanjaVO idx="83">
+		<h>文</h>
+		<k>문</k>
+		<m>글월 문</m>
+	</hanjaVO>
+	<hanjaVO idx="84">
+		<h>字</h>
+		<k>자</k>
+		<m>글자 자</m>
+	</hanjaVO>
+	<hanjaVO idx="85">
+		<h>乃</h>
+		<k>내</k>
+		<m>이에 내</m>
+	</hanjaVO>
+	<hanjaVO idx="86">
+		<h>服</h>
+		<k>복</k>
+		<m>옷 복</m>
+	</hanjaVO>
+	<hanjaVO idx="87">
+		<h>衣</h>
+		<k>의</k>
+		<m>옷 의</m>
+	</hanjaVO>
+	<hanjaVO idx="88">
+		<h>裳</h>
+		<k>상</k>
+		<m>치마 상</m>
+	</hanjaVO>
+	<hanjaVO idx="89">
+		<h>推</h>
+		<k>추</k>
+		<m>밀 추</m>
+	</hanjaVO>
+	<hanjaVO idx="90">
+		<h>位</h>
+		<k>위</k>
+		<m>자리 위</m>
+	</hanjaVO>
+	<hanjaVO idx="91">
+		<h>讓</h>
+		<k>양</k>
+		<m>사양할 양</m>
+	</hanjaVO>
+	<hanjaVO idx="92">
+		<h>國</h>
+		<k>국</k>
+		<m>나라 국</m>
+	</hanjaVO>
+	<hanjaVO idx="93">
+		<h>有</h>
+		<k>유</k>
+		<m>있을 유</m>
+	</hanjaVO>
+	<hanjaVO idx="94">
+		<h>虞</h>
+		<k>우</k>
+		<m>헤아릴 우</m>
+	</hanjaVO>
+	<hanjaVO idx="95">
+		<h>陶</h>
+		<k>도</k>
+		<m>질그릇 도</m>
+	</hanjaVO>
+	<hanjaVO idx="96">
+		<h>唐</h>
+		<k>당</k>
+		<m>당나라 당</m>
+	</hanjaVO>
+	<hanjaVO idx="97">
+		<h>弔</h>
+		<k>조</k>
+		<m>슬퍼할 조</m>
+	</hanjaVO>
+	<hanjaVO idx="98">
+		<h>民</h>
+		<k>민</k>
+		<m>백성 민</m>
+	</hanjaVO>
+	<hanjaVO idx="99">
+		<h>伐</h>
+		<k>벌</k>
+		<m>칠 벌</m>
+	</hanjaVO>
+	<hanjaVO idx="100">
+		<h>罪</h>
+		<k>죄</k>
+		<m>허물 죄</m>
+	</hanjaVO>
+	<hanjaVO idx="101">
+		<h>周</h>
+		<k>주</k>
+		<m>두루 주</m>
+	</hanjaVO>
+	<hanjaVO idx="102">
+		<h>發</h>
+		<k>발</k>
+		<m>필 발</m>
+	</hanjaVO>
+	<hanjaVO idx="103">
+		<h>殷</h>
+		<k>은</k>
+		<m>나라이름 은</m>
+	</hanjaVO>
+	<hanjaVO idx="104">
+		<h>湯</h>
+		<k>탕</k>
+		<m>끓을 탕</m>
+	</hanjaVO>
+	<hanjaVO idx="105">
+		<h>坐</h>
+		<k>좌</k>
+		<m>앉을 좌</m>
+	</hanjaVO>
+	<hanjaVO idx="106">
+		<h>朝</h>
+		<k>조</k>
+		<m>아침 조</m>
+	</hanjaVO>
+	<hanjaVO idx="107">
+		<h>問</h>
+		<k>문</k>
+		<m>물을 문</m>
+	</hanjaVO>
+	<hanjaVO idx="108">
+		<h>道</h>
+		<k>도</k>
+		<m>길/말할 도</m>
+	</hanjaVO>
+	<hanjaVO idx="109">
+		<h>垂</h>
+		<k>수</k>
+		<m>드리울 수</m>
+	</hanjaVO>
+	<hanjaVO idx="110">
+		<h>拱</h>
+		<k>공</k>
+		<m>껴안을 공</m>
+	</hanjaVO>
+	<hanjaVO idx="111">
+		<h>平</h>
+		<k>평</k>
+		<m>평평할 평</m>
+	</hanjaVO>
+	<hanjaVO idx="112">
+		<h>章</h>
+		<k>장</k>
+		<m>글월 장</m>
+	</hanjaVO>
+	<hanjaVO idx="113">
+		<h>愛</h>
+		<k>애</k>
+		<m>사랑 애</m>
+	</hanjaVO>
+	<hanjaVO idx="114">
+		<h>育</h>
+		<k>육</k>
+		<m>기를 육</m>
+	</hanjaVO>
+	<hanjaVO idx="115">
+		<h>黎</h>
+		<k>여</k>
+		<m>검을 려</m>
+	</hanjaVO>
+	<hanjaVO idx="116">
+		<h>首</h>
+		<k>수</k>
+		<m>머리 수</m>
+	</hanjaVO>
+	<hanjaVO idx="117">
+		<h>臣</h>
+		<k>신</k>
+		<m>신하 신</m>
+	</hanjaVO>
+	<hanjaVO idx="118">
+		<h>伏</h>
+		<k>복</k>
+		<m>엎드릴 복</m>
+	</hanjaVO>
+	<hanjaVO idx="119">
+		<h>戎</h>
+		<k>융</k>
+		<m>오랑캐 융</m>
+	</hanjaVO>
+	<hanjaVO idx="120">
+		<h>羌</h>
+		<k>강</k>
+		<m>종족이름 강</m>
+	</hanjaVO>
+	<hanjaVO idx="121">
+		<h>遐</h>
+		<k>하</k>
+		<m>멀 하</m>
+	</hanjaVO>
+	<hanjaVO idx="122">
+		<h>邇</h>
+		<k>이</k>
+		<m>가까울 이</m>
+	</hanjaVO>
+	<hanjaVO idx="123">
+		<h>壹</h>
+		<k>일</k>
+		<m>한 일</m>
+	</hanjaVO>
+	<hanjaVO idx="124">
+		<h>體</h>
+		<k>체</k>
+		<m>몸 체</m>
+	</hanjaVO>
+	<hanjaVO idx="125">
+		<h>率</h>
+		<k>솔</k>
+		<m>거느릴 솔/비율 률</m>
+	</hanjaVO>
+	<hanjaVO idx="126">
+		<h>賓</h>
+		<k>빈</k>
+		<m>손 빈</m>
+	</hanjaVO>
+	<hanjaVO idx="127">
+		<h>歸</h>
+		<k>귀</k>
+		<m>돌아갈 귀</m>
+	</hanjaVO>
+	<hanjaVO idx="128">
+		<h>王</h>
+		<k>왕</k>
+		<m>임금 왕</m>
+	</hanjaVO>
+	<hanjaVO idx="129">
+		<h>鳴</h>
+		<k>명</k>
+		<m>울 명</m>
+	</hanjaVO>
+	<hanjaVO idx="130">
+		<h>鳳</h>
+		<k>봉</k>
+		<m>봉황새 봉</m>
+	</hanjaVO>
+	<hanjaVO idx="131">
+		<h>在</h>
+		<k>재</k>
+		<m>있을 재</m>
+	</hanjaVO>
+	<hanjaVO idx="132">
+		<h>樹</h>
+		<k>수</k>
+		<m>나무 수</m>
+	</hanjaVO>
+	<hanjaVO idx="133">
+		<h>白</h>
+		<k>백</k>
+		<m>흰 백</m>
+	</hanjaVO>
+	<hanjaVO idx="134">
+		<h>駒</h>
+		<k>구</k>
+		<m>망아지 구</m>
+	</hanjaVO>
+	<hanjaVO idx="135">
+		<h>食</h>
+		<k>식</k>
+		<m>밥 식</m>
+	</hanjaVO>
+	<hanjaVO idx="136">
+		<h>場</h>
+		<k>장</k>
+		<m>마당 장</m>
+	</hanjaVO>
+	<hanjaVO idx="137">
+		<h>化</h>
+		<k>화</k>
+		<m>될 화</m>
+	</hanjaVO>
+	<hanjaVO idx="138">
+		<h>被</h>
+		<k>피</k>
+		<m>입을 피</m>
+	</hanjaVO>
+	<hanjaVO idx="139">
+		<h>草</h>
+		<k>초</k>
+		<m>풀 초</m>
+	</hanjaVO>
+	<hanjaVO idx="140">
+		<h>木</h>
+		<k>목</k>
+		<m>나무 목</m>
+	</hanjaVO>
+	<hanjaVO idx="141">
+		<h>賴</h>
+		<k>뇌</k>
+		<m>힘입을 뢰</m>
+	</hanjaVO>
+	<hanjaVO idx="142">
+		<h>及</h>
+		<k>급</k>
+		<m>미칠 급</m>
+	</hanjaVO>
+	<hanjaVO idx="143">
+		<h>萬</h>
+		<k>만</k>
+		<m>일만 만</m>
+	</hanjaVO>
+	<hanjaVO idx="144">
+		<h>方</h>
+		<k>방</k>
+		<m>모 방</m>
+	</hanjaVO>
+	<hanjaVO idx="145">
+		<h>蓋</h>
+		<k>개</k>
+		<m>덮을 개</m>
+	</hanjaVO>
+	<hanjaVO idx="146">
+		<h>此</h>
+		<k>차</k>
+		<m>이 차</m>
+	</hanjaVO>
+	<hanjaVO idx="147">
+		<h>身</h>
+		<k>신</k>
+		<m>몸 신</m>
+	</hanjaVO>
+	<hanjaVO idx="148">
+		<h>髮</h>
+		<k>발</k>
+		<m>터럭 발</m>
+	</hanjaVO>
+	<hanjaVO idx="149">
+		<h>四</h>
+		<k>사</k>
+		<m>넉 사</m>
+	</hanjaVO>
+	<hanjaVO idx="150">
+		<h>大</h>
+		<k>대</k>
+		<m>큰 대</m>
+	</hanjaVO>
+	<hanjaVO idx="151">
+		<h>五</h>
+		<k>오</k>
+		<m>다섯 오</m>
+	</hanjaVO>
+	<hanjaVO idx="152">
+		<h>常</h>
+		<k>상</k>
+		<m>항상 상</m>
+	</hanjaVO>
+	<hanjaVO idx="153">
+		<h>恭</h>
+		<k>공</k>
+		<m>공손할 공</m>
+	</hanjaVO>
+	<hanjaVO idx="154">
+		<h>惟</h>
+		<k>유</k>
+		<m>오직 유</m>
+	</hanjaVO>
+	<hanjaVO idx="155">
+		<h>鞠</h>
+		<k>국</k>
+		<m>국문할 국</m>
+	</hanjaVO>
+	<hanjaVO idx="156">
+		<h>養</h>
+		<k>양</k>
+		<m>기를 양</m>
+	</hanjaVO>
+	<hanjaVO idx="157">
+		<h>豈</h>
+		<k>기</k>
+		<m>어찌 기</m>
+	</hanjaVO>
+	<hanjaVO idx="158">
+		<h>敢</h>
+		<k>감</k>
+		<m>감히 감</m>
+	</hanjaVO>
+	<hanjaVO idx="159">
+		<h>毁</h>
+		<k>훼</k>
+		<m>헐 훼</m>
+	</hanjaVO>
+	<hanjaVO idx="160">
+		<h>傷</h>
+		<k>상</k>
+		<m>상할 상</m>
+	</hanjaVO>
+	<hanjaVO idx="161">
+		<h>女</h>
+		<k>여</k>
+		<m>계집 녀</m>
+	</hanjaVO>
+	<hanjaVO idx="162">
+		<h>慕</h>
+		<k>모</k>
+		<m>사모할 모</m>
+	</hanjaVO>
+	<hanjaVO idx="163">
+		<h>貞</h>
+		<k>정</k>
+		<m>곧을 정</m>
+	</hanjaVO>
+	<hanjaVO idx="164">
+		<h>烈</h>
+		<k>열</k>
+		<m>매울 렬</m>
+	</hanjaVO>
+	<hanjaVO idx="165">
+		<h>男</h>
+		<k>남</k>
+		<m>사내 남</m>
+	</hanjaVO>
+	<hanjaVO idx="166">
+		<h>效</h>
+		<k>효</k>
+		<m>본받을 효</m>
+	</hanjaVO>
+	<hanjaVO idx="167">
+		<h>才</h>
+		<k>재</k>
+		<m>재주 재</m>
+	</hanjaVO>
+	<hanjaVO idx="168">
+		<h>良</h>
+		<k>량</k>
+		<m>어질 량</m>
+	</hanjaVO>
+	<hanjaVO idx="169">
+		<h>知</h>
+		<k>지</k>
+		<m>알 지</m>
+	</hanjaVO>
+	<hanjaVO idx="170">
+		<h>過</h>
+		<k>과</k>
+		<m>지날/허물 과</m>
+	</hanjaVO>
+	<hanjaVO idx="171">
+		<h>必</h>
+		<k>필</k>
+		<m>반드시 필</m>
+	</hanjaVO>
+	<hanjaVO idx="172">
+		<h>改</h>
+		<k>개</k>
+		<m>고칠 개</m>
+	</hanjaVO>
+	<hanjaVO idx="173">
+		<h>得</h>
+		<k>득</k>
+		<m>얻을 득</m>
+	</hanjaVO>
+	<hanjaVO idx="174">
+		<h>能</h>
+		<k>능</k>
+		<m>능할 능</m>
+	</hanjaVO>
+	<hanjaVO idx="175">
+		<h>莫</h>
+		<k>막</k>
+		<m>말 막</m>
+	</hanjaVO>
+	<hanjaVO idx="176">
+		<h>忘</h>
+		<k>망</k>
+		<m>잊을 망</m>
+	</hanjaVO>
+	<hanjaVO idx="177">
+		<h>罔</h>
+		<k>망</k>
+		<m>없을 망</m>
+	</hanjaVO>
+	<hanjaVO idx="178">
+		<h>談</h>
+		<k>담</k>
+		<m>말씀 담</m>
+	</hanjaVO>
+	<hanjaVO idx="179">
+		<h>彼</h>
+		<k>피</k>
+		<m>저 피</m>
+	</hanjaVO>
+	<hanjaVO idx="180">
+		<h>短</h>
+		<k>단</k>
+		<m>짧을 단</m>
+	</hanjaVO>
+	<hanjaVO idx="181">
+		<h>靡</h>
+		<k>미</k>
+		<m>아닐 미</m>
+	</hanjaVO>
+	<hanjaVO idx="182">
+		<h>恃</h>
+		<k>시</k>
+		<m>믿을 시</m>
+	</hanjaVO>
+	<hanjaVO idx="183">
+		<h>己</h>
+		<k>기</k>
+		<m>몸 기</m>
+	</hanjaVO>
+	<hanjaVO idx="184">
+		<h>長</h>
+		<k>장</k>
+		<m>길 장</m>
+	</hanjaVO>
+	<hanjaVO idx="185">
+		<h>信</h>
+		<k>신</k>
+		<m>믿을 신</m>
+	</hanjaVO>
+	<hanjaVO idx="186">
+		<h>使</h>
+		<k>사</k>
+		<m>하여금 사</m>
+	</hanjaVO>
+	<hanjaVO idx="187">
+		<h>可</h>
+		<k>가</k>
+		<m>옳을 가</m>
+	</hanjaVO>
+	<hanjaVO idx="188">
+		<h>覆</h>
+		<k>복</k>
+		<m>뒤집힐 복</m>
+	</hanjaVO>
+	<hanjaVO idx="189">
+		<h>器</h>
+		<k>기</k>
+		<m>그릇 기</m>
+	</hanjaVO>
+	<hanjaVO idx="190">
+		<h>欲</h>
+		<k>욕</k>
+		<m>하고자할 욕</m>
+	</hanjaVO>
+	<hanjaVO idx="191">
+		<h>難</h>
+		<k>난</k>
+		<m>어려울 난</m>
+	</hanjaVO>
+	<hanjaVO idx="192">
+		<h>量</h>
+		<k>량</k>
+		<m>헤아릴 량</m>
+	</hanjaVO>
+	<hanjaVO idx="193">
+		<h>墨</h>
+		<k>묵</k>
+		<m>먹 묵</m>
+	</hanjaVO>
+	<hanjaVO idx="194">
+		<h>悲</h>
+		<k>비</k>
+		<m>슬플 비</m>
+	</hanjaVO>
+	<hanjaVO idx="195">
+		<h>絲</h>
+		<k>사</k>
+		<m>실 사</m>
+	</hanjaVO>
+	<hanjaVO idx="196">
+		<h>染</h>
+		<k>염</k>
+		<m>물들일 염</m>
+	</hanjaVO>
+	<hanjaVO idx="197">
+		<h>詩</h>
+		<k>시</k>
+		<m>시 시</m>
+	</hanjaVO>
+	<hanjaVO idx="198">
+		<h>讚</h>
+		<k>찬</k>
+		<m>칭찬할 찬</m>
+	</hanjaVO>
+	<hanjaVO idx="199">
+		<h>羔</h>
+		<k>고</k>
+		<m>새끼양 고</m>
+	</hanjaVO>
+	<hanjaVO idx="200">
+		<h>羊</h>
+		<k>양</k>
+		<m>양 양</m>
+	</hanjaVO>
+	<hanjaVO idx="201">
+		<h>景</h>
+		<k>경</k>
+		<m>경치 경</m>
+	</hanjaVO>
+	<hanjaVO idx="202">
+		<h>行</h>
+		<k>행</k>
+		<m>다닐 행/항렬 항</m>
+	</hanjaVO>
+	<hanjaVO idx="203">
+		<h>維</h>
+		<k>유</k>
+		<m>벼리 유</m>
+	</hanjaVO>
+	<hanjaVO idx="204">
+		<h>賢</h>
+		<k>현</k>
+		<m>어질 현</m>
+	</hanjaVO>
+	<hanjaVO idx="205">
+		<h>克</h>
+		<k>극</k>
+		<m>이길 극</m>
+	</hanjaVO>
+	<hanjaVO idx="206">
+		<h>念</h>
+		<k>념</k>
+		<m>생각 념</m>
+	</hanjaVO>
+	<hanjaVO idx="207">
+		<h>作</h>
+		<k>작</k>
+		<m>지을 작</m>
+	</hanjaVO>
+	<hanjaVO idx="208">
+		<h>聖</h>
+		<k>성</k>
+		<m>성인 성</m>
+	</hanjaVO>
+	<hanjaVO idx="209">
+		<h>德</h>
+		<k>덕</k>
+		<m>덕 덕</m>
+	</hanjaVO>
+	<hanjaVO idx="210">
+		<h>建</h>
+		<k>건</k>
+		<m>세울 건</m>
+	</hanjaVO>
+	<hanjaVO idx="211">
+		<h>名</h>
+		<k>명</k>
+		<m>이름 명</m>
+	</hanjaVO>
+	<hanjaVO idx="212">
+		<h>立</h>
+		<k>립</k>
+		<m>설 립</m>
+	</hanjaVO>
+	<hanjaVO idx="213">
+		<h>形</h>
+		<k>형</k>
+		<m>모양 형</m>
+	</hanjaVO>
+	<hanjaVO idx="214">
+		<h>端</h>
+		<k>단</k>
+		<m>바를 단</m>
+	</hanjaVO>
+	<hanjaVO idx="215">
+		<h>表</h>
+		<k>표</k>
+		<m>겉 표</m>
+	</hanjaVO>
+	<hanjaVO idx="216">
+		<h>正</h>
+		<k>정</k>
+		<m>바를 정</m>
+	</hanjaVO>
+	<hanjaVO idx="217">
+		<h>空</h>
+		<k>공</k>
+		<m>빌 공</m>
+	</hanjaVO>
+	<hanjaVO idx="218">
+		<h>谷</h>
+		<k>곡</k>
+		<m>골 곡</m>
+	</hanjaVO>
+	<hanjaVO idx="219">
+		<h>傳</h>
+		<k>전</k>
+		<m>전할 전</m>
+	</hanjaVO>
+	<hanjaVO idx="220">
+		<h>聲</h>
+		<k>성</k>
+		<m>소리 성</m>
+	</hanjaVO>
+	<hanjaVO idx="221">
+		<h>虛</h>
+		<k>허</k>
+		<m>빌 허</m>
+	</hanjaVO>
+	<hanjaVO idx="222">
+		<h>堂</h>
+		<k>당</k>
+		<m>집 당</m>
+	</hanjaVO>
+	<hanjaVO idx="223">
+		<h>習</h>
+		<k>습</k>
+		<m>익힐 습</m>
+	</hanjaVO>
+	<hanjaVO idx="224">
+		<h>聽</h>
+		<k>청</k>
+		<m>들을 청</m>
+	</hanjaVO>
+	<hanjaVO idx="225">
+		<h>禍</h>
+		<k>화</k>
+		<m>재앙 화</m>
+	</hanjaVO>
+	<hanjaVO idx="226">
+		<h>因</h>
+		<k>인</k>
+		<m>인할 인</m>
+	</hanjaVO>
+	<hanjaVO idx="227">
+		<h>惡</h>
+		<k>악</k>
+		<m>악할 악/미워할 오</m>
+	</hanjaVO>
+	<hanjaVO idx="228">
+		<h>積</h>
+		<k>적</k>
+		<m>쌓을 적</m>
+	</hanjaVO>
+	<hanjaVO idx="229">
+		<h>福</h>
+		<k>복</k>
+		<m>복 복</m>
+	</hanjaVO>
+	<hanjaVO idx="230">
+		<h>緣</h>
+		<k>연</k>
+		<m>인연 연</m>
+	</hanjaVO>
+	<hanjaVO idx="231">
+		<h>善</h>
+		<k>선</k>
+		<m>착할 선</m>
+	</hanjaVO>
+	<hanjaVO idx="232">
+		<h>慶</h>
+		<k>경</k>
+		<m>경사 경</m>
+	</hanjaVO>
+	<hanjaVO idx="233">
+		<h>尺</h>
+		<k>척</k>
+		<m>자 척</m>
+	</hanjaVO>
+	<hanjaVO idx="234">
+		<h>璧</h>
+		<k>벽</k>
+		<m>구슬 벽</m>
+	</hanjaVO>
+	<hanjaVO idx="235">
+		<h>非</h>
+		<k>비</k>
+		<m>아닐 비</m>
+	</hanjaVO>
+	<hanjaVO idx="236">
+		<h>寶</h>
+		<k>보</k>
+		<m>보배 보</m>
+	</hanjaVO>
+	<hanjaVO idx="237">
+		<h>寸</h>
+		<k>촌</k>
+		<m>마디 촌</m>
+	</hanjaVO>
+	<hanjaVO idx="238">
+		<h>陰</h>
+		<k>음</k>
+		<m>그늘 음</m>
+	</hanjaVO>
+	<hanjaVO idx="239">
+		<h>是</h>
+		<k>시</k>
+		<m>옳을/이 시</m>
+	</hanjaVO>
+	<hanjaVO idx="240">
+		<h>競</h>
+		<k>경</k>
+		<m>다툴 경</m>
+	</hanjaVO>
+	<hanjaVO idx="241">
+		<h>資</h>
+		<k>자</k>
+		<m>자료 자</m>
+	</hanjaVO>
+	<hanjaVO idx="242">
+		<h>父</h>
+		<k>부</k>
+		<m>아비 부</m>
+	</hanjaVO>
+	<hanjaVO idx="243">
+		<h>事</h>
+		<k>사</k>
+		<m>일/섬길 사</m>
+	</hanjaVO>
+	<hanjaVO idx="244">
+		<h>君</h>
+		<k>군</k>
+		<m>임금 군</m>
+	</hanjaVO>
+	<hanjaVO idx="245">
+		<h>曰</h>
+		<k>왈</k>
+		<m>가로 왈</m>
+	</hanjaVO>
+	<hanjaVO idx="246">
+		<h>嚴</h>
+		<k>엄</k>
+		<m>엄할 엄</m>
+	</hanjaVO>
+	<hanjaVO idx="247">
+		<h>與</h>
+		<k>여</k>
+		<m>더불 여</m>
+	</hanjaVO>
+	<hanjaVO idx="248">
+		<h>敬</h>
+		<k>경</k>
+		<m>공경할 경</m>
+	</hanjaVO>
+	<hanjaVO idx="249">
+		<h>孝</h>
+		<k>효</k>
+		<m>효도 효</m>
+	</hanjaVO>
+	<hanjaVO idx="250">
+		<h>當</h>
+		<k>당</k>
+		<m>마땅할 당</m>
+	</hanjaVO>
+	<hanjaVO idx="251">
+		<h>竭</h>
+		<k>갈</k>
+		<m>다할 갈</m>
+	</hanjaVO>
+	<hanjaVO idx="252">
+		<h>力</h>
+		<k>력</k>
+		<m>힘 력</m>
+	</hanjaVO>
+	<hanjaVO idx="253">
+		<h>忠</h>
+		<k>충</k>
+		<m>충성 충</m>
+	</hanjaVO>
+	<hanjaVO idx="254">
+		<h>則</h>
+		<k>즉</k>
+		<m>곧 즉/법 칙</m>
+	</hanjaVO>
+	<hanjaVO idx="255">
+		<h>盡</h>
+		<k>진</k>
+		<m>다할 진</m>
+	</hanjaVO>
+	<hanjaVO idx="256">
+		<h>命</h>
+		<k>명</k>
+		<m>목숨 명</m>
+	</hanjaVO>
+	<hanjaVO idx="257">
+		<h>臨</h>
+		<k>임</k>
+		<m>임할 림</m>
+	</hanjaVO>
+	<hanjaVO idx="258">
+		<h>深</h>
+		<k>심</k>
+		<m>깊을 심</m>
+	</hanjaVO>
+	<hanjaVO idx="259">
+		<h>履</h>
+		<k>리</k>
+		<m>밟을 리</m>
+	</hanjaVO>
+	<hanjaVO idx="260">
+		<h>薄</h>
+		<k>박</k>
+		<m>얇을 박</m>
+	</hanjaVO>
+	<hanjaVO idx="261">
+		<h>夙</h>
+		<k>숙</k>
+		<m>일찍 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="262">
+		<h>興</h>
+		<k>흥</k>
+		<m>흥할 흥</m>
+	</hanjaVO>
+	<hanjaVO idx="263">
+		<h>溫</h>
+		<k>온</k>
+		<m>따뜻할 온</m>
+	</hanjaVO>
+	<hanjaVO idx="264">
+		<h>凊</h>
+		<k>청</k>
+		<m>서늘할 정</m>
+	</hanjaVO>
+	<hanjaVO idx="265">
+		<h>似</h>
+		<k>사</k>
+		<m>같을 사</m>
+	</hanjaVO>
+	<hanjaVO idx="266">
+		<h>蘭</h>
+		<k>난</k>
+		<m>난초 란</m>
+	</hanjaVO>
+	<hanjaVO idx="267">
+		<h>斯</h>
+		<k>사</k>
+		<m>이 사</m>
+	</hanjaVO>
+	<hanjaVO idx="268">
+		<h>馨</h>
+		<k>형</k>
+		<m>향기 형</m>
+	</hanjaVO>
+	<hanjaVO idx="269">
+		<h>如</h>
+		<k>여</k>
+		<m>같을 여</m>
+	</hanjaVO>
+	<hanjaVO idx="270">
+		<h>松</h>
+		<k>송</k>
+		<m>소나무 송</m>
+	</hanjaVO>
+	<hanjaVO idx="271">
+		<h>之</h>
+		<k>지</k>
+		<m>갈 지</m>
+	</hanjaVO>
+	<hanjaVO idx="272">
+		<h>盛</h>
+		<k>성</k>
+		<m>성할 성</m>
+	</hanjaVO>
+	<hanjaVO idx="273">
+		<h>川</h>
+		<k>천</k>
+		<m>내 천</m>
+	</hanjaVO>
+	<hanjaVO idx="274">
+		<h>流</h>
+		<k>류</k>
+		<m>흐를 류</m>
+	</hanjaVO>
+	<hanjaVO idx="275">
+		<h>不</h>
+		<k>불</k>
+		<m>아니 불</m>
+	</hanjaVO>
+	<hanjaVO idx="276">
+		<h>息</h>
+		<k>식</k>
+		<m>쉴 식</m>
+	</hanjaVO>
+	<hanjaVO idx="277">
+		<h>淵</h>
+		<k>연</k>
+		<m>못 연</m>
+	</hanjaVO>
+	<hanjaVO idx="278">
+		<h>澄</h>
+		<k>징</k>
+		<m>맑을 징</m>
+	</hanjaVO>
+	<hanjaVO idx="279">
+		<h>取</h>
+		<k>취</k>
+		<m>취할 취</m>
+	</hanjaVO>
+	<hanjaVO idx="280">
+		<h>暎</h>
+		<k>영</k>
+		<m>비칠 영</m>
+	</hanjaVO>
+	<hanjaVO idx="281">
+		<h>容</h>
+		<k>용</k>
+		<m>얼굴 용</m>
+	</hanjaVO>
+	<hanjaVO idx="282">
+		<h>止</h>
+		<k>지</k>
+		<m>그칠 지</m>
+	</hanjaVO>
+	<hanjaVO idx="283">
+		<h>若</h>
+		<k>약</k>
+		<m>같을 약</m>
+	</hanjaVO>
+	<hanjaVO idx="284">
+		<h>思</h>
+		<k>사</k>
+		<m>생각 사</m>
+	</hanjaVO>
+	<hanjaVO idx="285">
+		<h>言</h>
+		<k>언</k>
+		<m>말씀 언</m>
+	</hanjaVO>
+	<hanjaVO idx="286">
+		<h>辭</h>
+		<k>사</k>
+		<m>말씀 사</m>
+	</hanjaVO>
+	<hanjaVO idx="287">
+		<h>安</h>
+		<k>안</k>
+		<m>편안 안</m>
+	</hanjaVO>
+	<hanjaVO idx="288">
+		<h>定</h>
+		<k>정</k>
+		<m>정할 정</m>
+	</hanjaVO>
+	<hanjaVO idx="289">
+		<h>篤</h>
+		<k>독</k>
+		<m>도타울 독</m>
+	</hanjaVO>
+	<hanjaVO idx="290">
+		<h>初</h>
+		<k>초</k>
+		<m>처음 초</m>
+	</hanjaVO>
+	<hanjaVO idx="291">
+		<h>誠</h>
+		<k>성</k>
+		<m>정성 성</m>
+	</hanjaVO>
+	<hanjaVO idx="292">
+		<h>美</h>
+		<k>미</k>
+		<m>아름다울 미</m>
+	</hanjaVO>
+	<hanjaVO idx="293">
+		<h>愼</h>
+		<k>신</k>
+		<m>삼갈 신</m>
+	</hanjaVO>
+	<hanjaVO idx="294">
+		<h>終</h>
+		<k>종</k>
+		<m>마지막 종</m>
+	</hanjaVO>
+	<hanjaVO idx="295">
+		<h>宜</h>
+		<k>의</k>
+		<m>마땅 의</m>
+	</hanjaVO>
+	<hanjaVO idx="296">
+		<h>令</h>
+		<k>령</k>
+		<m>하여금 령</m>
+	</hanjaVO>
+	<hanjaVO idx="297">
+		<h>榮</h>
+		<k>영</k>
+		<m>영화 영</m>
+	</hanjaVO>
+	<hanjaVO idx="298">
+		<h>業</h>
+		<k>업</k>
+		<m>업 업</m>
+	</hanjaVO>
+	<hanjaVO idx="299">
+		<h>所</h>
+		<k>소</k>
+		<m>바 소</m>
+	</hanjaVO>
+	<hanjaVO idx="300">
+		<h>基</h>
+		<k>기</k>
+		<m>터 기</m>
+	</hanjaVO>
+	<hanjaVO idx="301">
+		<h>籍</h>
+		<k>적</k>
+		<m>호적 적</m>
+	</hanjaVO>
+	<hanjaVO idx="302">
+		<h>甚</h>
+		<k>심</k>
+		<m>심할 심</m>
+	</hanjaVO>
+	<hanjaVO idx="303">
+		<h>無</h>
+		<k>무</k>
+		<m>없을 무</m>
+	</hanjaVO>
+	<hanjaVO idx="304">
+		<h>竟</h>
+		<k>경</k>
+		<m>마침내 경</m>
+	</hanjaVO>
+	<hanjaVO idx="305">
+		<h>學</h>
+		<k>학</k>
+		<m>배울 학</m>
+	</hanjaVO>
+	<hanjaVO idx="306">
+		<h>優</h>
+		<k>우</k>
+		<m>넉넉할 우</m>
+	</hanjaVO>
+	<hanjaVO idx="307">
+		<h>登</h>
+		<k>등</k>
+		<m>오를 등</m>
+	</hanjaVO>
+	<hanjaVO idx="308">
+		<h>仕</h>
+		<k>사</k>
+		<m>벼슬 사</m>
+	</hanjaVO>
+	<hanjaVO idx="309">
+		<h>攝</h>
+		<k>섭</k>
+		<m>잡을 섭</m>
+	</hanjaVO>
+	<hanjaVO idx="310">
+		<h>職</h>
+		<k>직</k>
+		<m>벼슬 직</m>
+	</hanjaVO>
+	<hanjaVO idx="311">
+		<h>從</h>
+		<k>종</k>
+		<m>좇을 종</m>
+	</hanjaVO>
+	<hanjaVO idx="312">
+		<h>政</h>
+		<k>정</k>
+		<m>정사 정</m>
+	</hanjaVO>
+	<hanjaVO idx="313">
+		<h>存</h>
+		<k>존</k>
+		<m>있을 존</m>
+	</hanjaVO>
+	<hanjaVO idx="314">
+		<h>以</h>
+		<k>이</k>
+		<m>써 이</m>
+	</hanjaVO>
+	<hanjaVO idx="315">
+		<h>甘</h>
+		<k>감</k>
+		<m>달 감</m>
+	</hanjaVO>
+	<hanjaVO idx="316">
+		<h>棠</h>
+		<k>당</k>
+		<m>해당화 당</m>
+	</hanjaVO>
+	<hanjaVO idx="317">
+		<h>去</h>
+		<k>거</k>
+		<m>갈 거</m>
+	</hanjaVO>
+	<hanjaVO idx="318">
+		<h>而</h>
+		<k>이</k>
+		<m>어조사 이</m>
+	</hanjaVO>
+	<hanjaVO idx="319">
+		<h>益</h>
+		<k>익</k>
+		<m>더할 익</m>
+	</hanjaVO>
+	<hanjaVO idx="320">
+		<h>詠</h>
+		<k>영</k>
+		<m>읊을 영</m>
+	</hanjaVO>
+	<hanjaVO idx="321">
+		<h>樂</h>
+		<k>악</k>
+		<m>풍류 악/즐길 락/좋아할 요</m>
+	</hanjaVO>
+	<hanjaVO idx="322">
+		<h>殊</h>
+		<k>수</k>
+		<m>다를 수</m>
+	</hanjaVO>
+	<hanjaVO idx="323">
+		<h>貴</h>
+		<k>귀</k>
+		<m>귀할 귀</m>
+	</hanjaVO>
+	<hanjaVO idx="324">
+		<h>賤</h>
+		<k>천</k>
+		<m>천할 천</m>
+	</hanjaVO>
+	<hanjaVO idx="325">
+		<h>禮</h>
+		<k>예</k>
+		<m>예도 례</m>
+	</hanjaVO>
+	<hanjaVO idx="326">
+		<h>別</h>
+		<k>별</k>
+		<m>다를 별</m>
+	</hanjaVO>
+	<hanjaVO idx="327">
+		<h>尊</h>
+		<k>존</k>
+		<m>높을 존</m>
+	</hanjaVO>
+	<hanjaVO idx="328">
+		<h>卑</h>
+		<k>비</k>
+		<m>낮을 비</m>
+	</hanjaVO>
+	<hanjaVO idx="329">
+		<h>上</h>
+		<k>상</k>
+		<m>위 상</m>
+	</hanjaVO>
+	<hanjaVO idx="330">
+		<h>和</h>
+		<k>화</k>
+		<m>화할 화</m>
+	</hanjaVO>
+	<hanjaVO idx="331">
+		<h>下</h>
+		<k>하</k>
+		<m>아래 하</m>
+	</hanjaVO>
+	<hanjaVO idx="332">
+		<h>睦</h>
+		<k>목</k>
+		<m>화목할 목</m>
+	</hanjaVO>
+	<hanjaVO idx="333">
+		<h>夫</h>
+		<k>부</k>
+		<m>지아비 부</m>
+	</hanjaVO>
+	<hanjaVO idx="334">
+		<h>唱</h>
+		<k>창</k>
+		<m>부를 창</m>
+	</hanjaVO>
+	<hanjaVO idx="335">
+		<h>婦</h>
+		<k>부</k>
+		<m>며느리 부</m>
+	</hanjaVO>
+	<hanjaVO idx="336">
+		<h>隨</h>
+		<k>수</k>
+		<m>따를 수</m>
+	</hanjaVO>
+	<hanjaVO idx="337">
+		<h>外</h>
+		<k>외</k>
+		<m>밖 외</m>
+	</hanjaVO>
+	<hanjaVO idx="338">
+		<h>受</h>
+		<k>수</k>
+		<m>받을 수</m>
+	</hanjaVO>
+	<hanjaVO idx="339">
+		<h>傅</h>
+		<k>부</k>
+		<m>스승 부</m>
+	</hanjaVO>
+	<hanjaVO idx="340">
+		<h>訓</h>
+		<k>훈</k>
+		<m>가르칠 훈</m>
+	</hanjaVO>
+	<hanjaVO idx="341">
+		<h>入</h>
+		<k>입</k>
+		<m>들 입</m>
+	</hanjaVO>
+	<hanjaVO idx="342">
+		<h>奉</h>
+		<k>봉</k>
+		<m>받들 봉</m>
+	</hanjaVO>
+	<hanjaVO idx="343">
+		<h>母</h>
+		<k>모</k>
+		<m>어미 모</m>
+	</hanjaVO>
+	<hanjaVO idx="344">
+		<h>儀</h>
+		<k>의</k>
+		<m>거동 의</m>
+	</hanjaVO>
+	<hanjaVO idx="345">
+		<h>諸</h>
+		<k>제</k>
+		<m>모두 제</m>
+	</hanjaVO>
+	<hanjaVO idx="346">
+		<h>姑</h>
+		<k>고</k>
+		<m>시어미 고</m>
+	</hanjaVO>
+	<hanjaVO idx="347">
+		<h>伯</h>
+		<k>백</k>
+		<m>맏 백</m>
+	</hanjaVO>
+	<hanjaVO idx="348">
+		<h>叔</h>
+		<k>숙</k>
+		<m>아재비 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="349">
+		<h>猶</h>
+		<k>유</k>
+		<m>같을 유</m>
+	</hanjaVO>
+	<hanjaVO idx="350">
+		<h>子</h>
+		<k>자</k>
+		<m>아들 자</m>
+	</hanjaVO>
+	<hanjaVO idx="351">
+		<h>比</h>
+		<k>비</k>
+		<m>견줄 비</m>
+	</hanjaVO>
+	<hanjaVO idx="352">
+		<h>兒</h>
+		<k>아</k>
+		<m>아이 아</m>
+	</hanjaVO>
+	<hanjaVO idx="353">
+		<h>孔</h>
+		<k>공</k>
+		<m>구멍 공</m>
+	</hanjaVO>
+	<hanjaVO idx="354">
+		<h>懷</h>
+		<k>회</k>
+		<m>품을 회</m>
+	</hanjaVO>
+	<hanjaVO idx="355">
+		<h>兄</h>
+		<k>형</k>
+		<m>맏 형</m>
+	</hanjaVO>
+	<hanjaVO idx="356">
+		<h>弟</h>
+		<k>제</k>
+		<m>아우 제</m>
+	</hanjaVO>
+	<hanjaVO idx="357">
+		<h>同</h>
+		<k>동</k>
+		<m>한가지 동</m>
+	</hanjaVO>
+	<hanjaVO idx="358">
+		<h>氣</h>
+		<k>기</k>
+		<m>기운 기</m>
+	</hanjaVO>
+	<hanjaVO idx="359">
+		<h>連</h>
+		<k>연</k>
+		<m>이어질 연</m>
+	</hanjaVO>
+	<hanjaVO idx="360">
+		<h>枝</h>
+		<k>지</k>
+		<m>가지 지</m>
+	</hanjaVO>
+	<hanjaVO idx="361">
+		<h>交</h>
+		<k>교</k>
+		<m>사귈 교</m>
+	</hanjaVO>
+	<hanjaVO idx="362">
+		<h>友</h>
+		<k>우</k>
+		<m>벗 우</m>
+	</hanjaVO>
+	<hanjaVO idx="363">
+		<h>投</h>
+		<k>투</k>
+		<m>던질 투</m>
+	</hanjaVO>
+	<hanjaVO idx="364">
+		<h>分</h>
+		<k>분</k>
+		<m>나눌 분</m>
+	</hanjaVO>
+	<hanjaVO idx="365">
+		<h>切</h>
+		<k>절</k>
+		<m>끊을 절/모두 체</m>
+	</hanjaVO>
+	<hanjaVO idx="366">
+		<h>磨</h>
+		<k>마</k>
+		<m>갈 마</m>
+	</hanjaVO>
+	<hanjaVO idx="367">
+		<h>箴</h>
+		<k>잠</k>
+		<m>경계 잠</m>
+	</hanjaVO>
+	<hanjaVO idx="368">
+		<h>規</h>
+		<k>규</k>
+		<m>법 규</m>
+	</hanjaVO>
+	<hanjaVO idx="369">
+		<h>仁</h>
+		<k>인</k>
+		<m>어질 인</m>
+	</hanjaVO>
+	<hanjaVO idx="370">
+		<h>慈</h>
+		<k>자</k>
+		<m>사랑할 자</m>
+	</hanjaVO>
+	<hanjaVO idx="371">
+		<h>隱</h>
+		<k>은</k>
+		<m>숨을 은</m>
+	</hanjaVO>
+	<hanjaVO idx="372">
+		<h>惻</h>
+		<k>측</k>
+		<m>슬플 측</m>
+	</hanjaVO>
+	<hanjaVO idx="373">
+		<h>造</h>
+		<k>조</k>
+		<m>지을 조</m>
+	</hanjaVO>
+	<hanjaVO idx="374">
+		<h>次</h>
+		<k>차</k>
+		<m>버금 차</m>
+	</hanjaVO>
+	<hanjaVO idx="375">
+		<h>弗</h>
+		<k>불</k>
+		<m>아닐 불</m>
+	</hanjaVO>
+	<hanjaVO idx="376">
+		<h>離</h>
+		<k>리</k>
+		<m>떠날 리</m>
+	</hanjaVO>
+	<hanjaVO idx="377">
+		<h>節</h>
+		<k>절</k>
+		<m>마디 절</m>
+	</hanjaVO>
+	<hanjaVO idx="378">
+		<h>義</h>
+		<k>의</k>
+		<m>옳을 의</m>
+	</hanjaVO>
+	<hanjaVO idx="379">
+		<h>廉</h>
+		<k>염</k>
+		<m>청렴 렴</m>
+	</hanjaVO>
+	<hanjaVO idx="380">
+		<h>退</h>
+		<k>퇴</k>
+		<m>물러갈 퇴</m>
+	</hanjaVO>
+	<hanjaVO idx="381">
+		<h>顚</h>
+		<k>전</k>
+		<m>엎드러질 전</m>
+	</hanjaVO>
+	<hanjaVO idx="382">
+		<h>沛</h>
+		<k>패</k>
+		<m>자빠질 패</m>
+	</hanjaVO>
+	<hanjaVO idx="383">
+		<h>匪</h>
+		<k>비</k>
+		<m>아닐 비</m>
+	</hanjaVO>
+	<hanjaVO idx="384">
+		<h>虧</h>
+		<k>휴</k>
+		<m>이지러질 휴</m>
+	</hanjaVO>
+	<hanjaVO idx="385">
+		<h>性</h>
+		<k>성</k>
+		<m>성품 성</m>
+	</hanjaVO>
+	<hanjaVO idx="386">
+		<h>靜</h>
+		<k>정</k>
+		<m>고요할 정</m>
+	</hanjaVO>
+	<hanjaVO idx="387">
+		<h>情</h>
+		<k>정</k>
+		<m>뜻 정</m>
+	</hanjaVO>
+	<hanjaVO idx="388">
+		<h>逸</h>
+		<k>일</k>
+		<m>편안할 일</m>
+	</hanjaVO>
+	<hanjaVO idx="389">
+		<h>心</h>
+		<k>심</k>
+		<m>마음 심</m>
+	</hanjaVO>
+	<hanjaVO idx="390">
+		<h>動</h>
+		<k>동</k>
+		<m>움직일 동</m>
+	</hanjaVO>
+	<hanjaVO idx="391">
+		<h>神</h>
+		<k>신</k>
+		<m>귀신 신</m>
+	</hanjaVO>
+	<hanjaVO idx="392">
+		<h>疲</h>
+		<k>피</k>
+		<m>피곤할 피</m>
+	</hanjaVO>
+	<hanjaVO idx="393">
+		<h>守</h>
+		<k>수</k>
+		<m>지킬 수</m>
+	</hanjaVO>
+	<hanjaVO idx="394">
+		<h>眞</h>
+		<k>진</k>
+		<m>참 진</m>
+	</hanjaVO>
+	<hanjaVO idx="395">
+		<h>志</h>
+		<k>지</k>
+		<m>뜻 지</m>
+	</hanjaVO>
+	<hanjaVO idx="396">
+		<h>滿</h>
+		<k>만</k>
+		<m>찰 만</m>
+	</hanjaVO>
+	<hanjaVO idx="397">
+		<h>逐</h>
+		<k>축</k>
+		<m>쫓을 축</m>
+	</hanjaVO>
+	<hanjaVO idx="398">
+		<h>物</h>
+		<k>물</k>
+		<m>만물 물</m>
+	</hanjaVO>
+	<hanjaVO idx="399">
+		<h>意</h>
+		<k>의</k>
+		<m>뜻 의</m>
+	</hanjaVO>
+	<hanjaVO idx="400">
+		<h>移</h>
+		<k>이</k>
+		<m>옮길 이</m>
+	</hanjaVO>
+	<hanjaVO idx="401">
+		<h>堅</h>
+		<k>견</k>
+		<m>굳을 견</m>
+	</hanjaVO>
+	<hanjaVO idx="402">
+		<h>持</h>
+		<k>지</k>
+		<m>가질 지</m>
+	</hanjaVO>
+	<hanjaVO idx="403">
+		<h>雅</h>
+		<k>아</k>
+		<m>우아할 아</m>
+	</hanjaVO>
+	<hanjaVO idx="404">
+		<h>操</h>
+		<k>조</k>
+		<m>잡을 조</m>
+	</hanjaVO>
+	<hanjaVO idx="405">
+		<h>好</h>
+		<k>호</k>
+		<m>좋을 호</m>
+	</hanjaVO>
+	<hanjaVO idx="406">
+		<h>爵</h>
+		<k>작</k>
+		<m>벼슬 작</m>
+	</hanjaVO>
+	<hanjaVO idx="407">
+		<h>自</h>
+		<k>자</k>
+		<m>스스로 자</m>
+	</hanjaVO>
+	<hanjaVO idx="408">
+		<h>縻</h>
+		<k>미</k>
+		<m>얽을 미</m>
+	</hanjaVO>
+	<hanjaVO idx="409">
+		<h>都</h>
+		<k>도</k>
+		<m>도읍 도</m>
+	</hanjaVO>
+	<hanjaVO idx="410">
+		<h>邑</h>
+		<k>읍</k>
+		<m>고을 읍</m>
+	</hanjaVO>
+	<hanjaVO idx="411">
+		<h>華</h>
+		<k>화</k>
+		<m>빛날 화</m>
+	</hanjaVO>
+	<hanjaVO idx="412">
+		<h>夏</h>
+		<k>하</k>
+		<m>여름 하</m>
+	</hanjaVO>
+	<hanjaVO idx="413">
+		<h>東</h>
+		<k>동</k>
+		<m>동녘 동</m>
+	</hanjaVO>
+	<hanjaVO idx="414">
+		<h>西</h>
+		<k>서</k>
+		<m>서녘 서</m>
+	</hanjaVO>
+	<hanjaVO idx="415">
+		<h>二</h>
+		<k>이</k>
+		<m>두 이</m>
+	</hanjaVO>
+	<hanjaVO idx="416">
+		<h>京</h>
+		<k>경</k>
+		<m>서울 경</m>
+	</hanjaVO>
+	<hanjaVO idx="417">
+		<h>背</h>
+		<k>배</k>
+		<m>등 배</m>
+	</hanjaVO>
+	<hanjaVO idx="418">
+		<h>邙</h>
+		<k>망</k>
+		<m>산이름 망</m>
+	</hanjaVO>
+	<hanjaVO idx="419">
+		<h>面</h>
+		<k>면</k>
+		<m>낯 면</m>
+	</hanjaVO>
+	<hanjaVO idx="420">
+		<h>洛</h>
+		<k>낙</k>
+		<m>강이름 락</m>
+	</hanjaVO>
+	<hanjaVO idx="421">
+		<h>浮</h>
+		<k>부</k>
+		<m>뜰 부</m>
+	</hanjaVO>
+	<hanjaVO idx="422">
+		<h>渭</h>
+		<k>위</k>
+		<m>강이름 위</m>
+	</hanjaVO>
+	<hanjaVO idx="423">
+		<h>據</h>
+		<k>거</k>
+		<m>의거할 거</m>
+	</hanjaVO>
+	<hanjaVO idx="424">
+		<h>涇</h>
+		<k>경</k>
+		<m>통할 경</m>
+	</hanjaVO>
+	<hanjaVO idx="425">
+		<h>宮</h>
+		<k>궁</k>
+		<m>집 궁</m>
+	</hanjaVO>
+	<hanjaVO idx="426">
+		<h>殿</h>
+		<k>전</k>
+		<m>큰집 전</m>
+	</hanjaVO>
+	<hanjaVO idx="427">
+		<h>盤</h>
+		<k>반</k>
+		<m>서릴 반</m>
+	</hanjaVO>
+	<hanjaVO idx="428">
+		<h>鬱</h>
+		<k>울</k>
+		<m>답답 울</m>
+	</hanjaVO>
+	<hanjaVO idx="429">
+		<h>樓</h>
+		<k>누</k>
+		<m>다락 루</m>
+	</hanjaVO>
+	<hanjaVO idx="430">
+		<h>觀</h>
+		<k>관</k>
+		<m>볼 관</m>
+	</hanjaVO>
+	<hanjaVO idx="431">
+		<h>飛</h>
+		<k>비</k>
+		<m>날 비</m>
+	</hanjaVO>
+	<hanjaVO idx="432">
+		<h>驚</h>
+		<k>경</k>
+		<m>놀랄 경</m>
+	</hanjaVO>
+	<hanjaVO idx="433">
+		<h>圖</h>
+		<k>도</k>
+		<m>그림 도</m>
+	</hanjaVO>
+	<hanjaVO idx="434">
+		<h>寫</h>
+		<k>사</k>
+		<m>베낄 사</m>
+	</hanjaVO>
+	<hanjaVO idx="435">
+		<h>禽</h>
+		<k>금</k>
+		<m>날짐승 금</m>
+	</hanjaVO>
+	<hanjaVO idx="436">
+		<h>獸</h>
+		<k>수</k>
+		<m>짐승 수</m>
+	</hanjaVO>
+	<hanjaVO idx="437">
+		<h>畵</h>
+		<k>화</k>
+		<m>그림 화</m>
+	</hanjaVO>
+	<hanjaVO idx="438">
+		<h>采</h>
+		<k>채</k>
+		<m>채색 채</m>
+	</hanjaVO>
+	<hanjaVO idx="439">
+		<h>仙</h>
+		<k>선</k>
+		<m>신선 선</m>
+	</hanjaVO>
+	<hanjaVO idx="440">
+		<h>靈</h>
+		<k>령</k>
+		<m>신령 령</m>
+	</hanjaVO>
+	<hanjaVO idx="441">
+		<h>丙</h>
+		<k>병</k>
+		<m>남녘 병</m>
+	</hanjaVO>
+	<hanjaVO idx="442">
+		<h>舍</h>
+		<k>사</k>
+		<m>집 사</m>
+	</hanjaVO>
+	<hanjaVO idx="443">
+		<h>傍</h>
+		<k>방</k>
+		<m>곁 방</m>
+	</hanjaVO>
+	<hanjaVO idx="444">
+		<h>啓</h>
+		<k>계</k>
+		<m>열 계</m>
+	</hanjaVO>
+	<hanjaVO idx="445">
+		<h>甲</h>
+		<k>갑</k>
+		<m>갑옷 갑</m>
+	</hanjaVO>
+	<hanjaVO idx="446">
+		<h>帳</h>
+		<k>장</k>
+		<m>휘장 장</m>
+	</hanjaVO>
+	<hanjaVO idx="447">
+		<h>對</h>
+		<k>대</k>
+		<m>대답할 대</m>
+	</hanjaVO>
+	<hanjaVO idx="448">
+		<h>楹</h>
+		<k>영</k>
+		<m>기둥 영</m>
+	</hanjaVO>
+	<hanjaVO idx="449">
+		<h>肆</h>
+		<k>사</k>
+		<m>베풀 사</m>
+	</hanjaVO>
+	<hanjaVO idx="450">
+		<h>筵</h>
+		<k>연</k>
+		<m>자리 연</m>
+	</hanjaVO>
+	<hanjaVO idx="451">
+		<h>設</h>
+		<k>설</k>
+		<m>베풀 설</m>
+	</hanjaVO>
+	<hanjaVO idx="452">
+		<h>席</h>
+		<k>석</k>
+		<m>자리 석</m>
+	</hanjaVO>
+	<hanjaVO idx="453">
+		<h>鼓</h>
+		<k>고</k>
+		<m>북 고</m>
+	</hanjaVO>
+	<hanjaVO idx="454">
+		<h>瑟</h>
+		<k>슬</k>
+		<m>비파 슬</m>
+	</hanjaVO>
+	<hanjaVO idx="455">
+		<h>吹</h>
+		<k>취</k>
+		<m>불 취</m>
+	</hanjaVO>
+	<hanjaVO idx="456">
+		<h>笙</h>
+		<k>생</k>
+		<m>생황 생</m>
+	</hanjaVO>
+	<hanjaVO idx="457">
+		<h>陞</h>
+		<k>승</k>
+		<m>오른쪽 승</m>
+	</hanjaVO>
+	<hanjaVO idx="458">
+		<h>階</h>
+		<k>계</k>
+		<m>뜰 계</m>
+	</hanjaVO>
+	<hanjaVO idx="459">
+		<h>納</h>
+		<k>납</k>
+		<m>바칠 납</m>
+	</hanjaVO>
+	<hanjaVO idx="460">
+		<h>陛</h>
+		<k>폐</k>
+		<m>섬돌 폐</m>
+	</hanjaVO>
+	<hanjaVO idx="461">
+		<h>弁</h>
+		<k>변</k>
+		<m>고깔 변</m>
+	</hanjaVO>
+	<hanjaVO idx="462">
+		<h>轉</h>
+		<k>전</k>
+		<m>구를 전</m>
+	</hanjaVO>
+	<hanjaVO idx="463">
+		<h>疑</h>
+		<k>의</k>
+		<m>의심할 의</m>
+	</hanjaVO>
+	<hanjaVO idx="464">
+		<h>星</h>
+		<k>성</k>
+		<m>별 성</m>
+	</hanjaVO>
+	<hanjaVO idx="465">
+		<h>右</h>
+		<k>우</k>
+		<m>오를 우</m>
+	</hanjaVO>
+	<hanjaVO idx="466">
+		<h>通</h>
+		<k>통</k>
+		<m>통할 통</m>
+	</hanjaVO>
+	<hanjaVO idx="467">
+		<h>廣</h>
+		<k>광</k>
+		<m>넓을 광</m>
+	</hanjaVO>
+	<hanjaVO idx="468">
+		<h>內</h>
+		<k>내</k>
+		<m>안 내</m>
+	</hanjaVO>
+	<hanjaVO idx="469">
+		<h>左</h>
+		<k>좌</k>
+		<m>왼 좌</m>
+	</hanjaVO>
+	<hanjaVO idx="470">
+		<h>達</h>
+		<k>달</k>
+		<m>통달할 달</m>
+	</hanjaVO>
+	<hanjaVO idx="471">
+		<h>承</h>
+		<k>승</k>
+		<m>이을 승</m>
+	</hanjaVO>
+	<hanjaVO idx="472">
+		<h>明</h>
+		<k>명</k>
+		<m>밝을 명</m>
+	</hanjaVO>
+	<hanjaVO idx="473">
+		<h>旣</h>
+		<k>기</k>
+		<m>이미 기</m>
+	</hanjaVO>
+	<hanjaVO idx="474">
+		<h>集</h>
+		<k>집</k>
+		<m>모을 집</m>
+	</hanjaVO>
+	<hanjaVO idx="475">
+		<h>墳</h>
+		<k>분</k>
+		<m>무덤 분</m>
+	</hanjaVO>
+	<hanjaVO idx="476">
+		<h>典</h>
+		<k>전</k>
+		<m>법 전</m>
+	</hanjaVO>
+	<hanjaVO idx="477">
+		<h>亦</h>
+		<k>역</k>
+		<m>또 역</m>
+	</hanjaVO>
+	<hanjaVO idx="478">
+		<h>聚</h>
+		<k>취</k>
+		<m>모을 취</m>
+	</hanjaVO>
+	<hanjaVO idx="479">
+		<h>群</h>
+		<k>군</k>
+		<m>무리 군</m>
+	</hanjaVO>
+	<hanjaVO idx="480">
+		<h>英</h>
+		<k>영</k>
+		<m>꽃부리 영</m>
+	</hanjaVO>
+	<hanjaVO idx="481">
+		<h>杜</h>
+		<k>두</k>
+		<m>막을 두</m>
+	</hanjaVO>
+	<hanjaVO idx="482">
+		<h>稿</h>
+		<k>고</k>
+		<m>볏짚 고</m>
+	</hanjaVO>
+	<hanjaVO idx="483">
+		<h>鍾</h>
+		<k>종</k>
+		<m>쇠북 종</m>
+	</hanjaVO>
+	<hanjaVO idx="484">
+		<h>隸</h>
+		<k>례</k>
+		<m>글씨 례</m>
+	</hanjaVO>
+	<hanjaVO idx="485">
+		<h>漆</h>
+		<k>칠</k>
+		<m>옻칠할 칠</m>
+	</hanjaVO>
+	<hanjaVO idx="486">
+		<h>書</h>
+		<k>서</k>
+		<m>글씨 서</m>
+	</hanjaVO>
+	<hanjaVO idx="487">
+		<h>壁</h>
+		<k>벽</k>
+		<m>벽 벽</m>
+	</hanjaVO>
+	<hanjaVO idx="488">
+		<h>經</h>
+		<k>경</k>
+		<m>날 경</m>
+	</hanjaVO>
+	<hanjaVO idx="489">
+		<h>府</h>
+		<k>부</k>
+		<m>마을 부</m>
+	</hanjaVO>
+	<hanjaVO idx="490">
+		<h>羅</h>
+		<k>라</k>
+		<m>벌릴 라</m>
+	</hanjaVO>
+	<hanjaVO idx="491">
+		<h>將</h>
+		<k>장</k>
+		<m>장수 장</m>
+	</hanjaVO>
+	<hanjaVO idx="492">
+		<h>相</h>
+		<k>상</k>
+		<m>서로 상</m>
+	</hanjaVO>
+	<hanjaVO idx="493">
+		<h>路</h>
+		<k>노</k>
+		<m>길 로</m>
+	</hanjaVO>
+	<hanjaVO idx="494">
+		<h>夾</h>
+		<k>협</k>
+		<m>낄 협</m>
+	</hanjaVO>
+	<hanjaVO idx="495">
+		<h>槐</h>
+		<k>괴</k>
+		<m>괴화나무 괴</m>
+	</hanjaVO>
+	<hanjaVO idx="496">
+		<h>卿</h>
+		<k>경</k>
+		<m>벼슬 경</m>
+	</hanjaVO>
+	<hanjaVO idx="497">
+		<h>戶</h>
+		<k>호</k>
+		<m>지게 호</m>
+	</hanjaVO>
+	<hanjaVO idx="498">
+		<h>封</h>
+		<k>봉</k>
+		<m>봉할 봉</m>
+	</hanjaVO>
+	<hanjaVO idx="499">
+		<h>八</h>
+		<k>팔</k>
+		<m>여덟 팔</m>
+	</hanjaVO>
+	<hanjaVO idx="500">
+		<h>縣</h>
+		<k>현</k>
+		<m>고을 현</m>
+	</hanjaVO>
+	<hanjaVO idx="501">
+		<h>家</h>
+		<k>가</k>
+		<m>집 가</m>
+	</hanjaVO>
+	<hanjaVO idx="502">
+		<h>給</h>
+		<k>급</k>
+		<m>줄 급</m>
+	</hanjaVO>
+	<hanjaVO idx="503">
+		<h>千</h>
+		<k>천</k>
+		<m>일천 천</m>
+	</hanjaVO>
+	<hanjaVO idx="504">
+		<h>兵</h>
+		<k>병</k>
+		<m>군사 병</m>
+	</hanjaVO>
+	<hanjaVO idx="505">
+		<h>高</h>
+		<k>고</k>
+		<m>높을 고</m>
+	</hanjaVO>
+	<hanjaVO idx="506">
+		<h>冠</h>
+		<k>관</k>
+		<m>갓 관</m>
+	</hanjaVO>
+	<hanjaVO idx="507">
+		<h>陪</h>
+		<k>배</k>
+		<m>더할 배</m>
+	</hanjaVO>
+	<hanjaVO idx="508">
+		<h>輦</h>
+		<k>련</k>
+		<m>손수레 련</m>
+	</hanjaVO>
+	<hanjaVO idx="509">
+		<h>驅</h>
+		<k>구</k>
+		<m>몰 구</m>
+	</hanjaVO>
+	<hanjaVO idx="510">
+		<h>轂</h>
+		<k>곡</k>
+		<m>바퀴 곡</m>
+	</hanjaVO>
+	<hanjaVO idx="511">
+		<h>振</h>
+		<k>진</k>
+		<m>떨친 진</m>
+	</hanjaVO>
+	<hanjaVO idx="512">
+		<h>纓</h>
+		<k>영</k>
+		<m>끈 영</m>
+	</hanjaVO>
+	<hanjaVO idx="513">
+		<h>世</h>
+		<k>세</k>
+		<m>세상 세</m>
+	</hanjaVO>
+	<hanjaVO idx="514">
+		<h>祿</h>
+		<k>록</k>
+		<m>녹 록</m>
+	</hanjaVO>
+	<hanjaVO idx="515">
+		<h>侈</h>
+		<k>치</k>
+		<m>사치할 치</m>
+	</hanjaVO>
+	<hanjaVO idx="516">
+		<h>富</h>
+		<k>부</k>
+		<m>부자 부</m>
+	</hanjaVO>
+	<hanjaVO idx="517">
+		<h>車</h>
+		<k>거</k>
+		<m>수레 거</m>
+	</hanjaVO>
+	<hanjaVO idx="518">
+		<h>駕</h>
+		<k>가</k>
+		<m>멍에 가</m>
+	</hanjaVO>
+	<hanjaVO idx="519">
+		<h>肥</h>
+		<k>비</k>
+		<m>살찔 비</m>
+	</hanjaVO>
+	<hanjaVO idx="520">
+		<h>輕</h>
+		<k>경</k>
+		<m>가벼울 경</m>
+	</hanjaVO>
+	<hanjaVO idx="521">
+		<h>策</h>
+		<k>책</k>
+		<m>꾀 책</m>
+	</hanjaVO>
+	<hanjaVO idx="522">
+		<h>功</h>
+		<k>공</k>
+		<m>공 공</m>
+	</hanjaVO>
+	<hanjaVO idx="523">
+		<h>茂</h>
+		<k>무</k>
+		<m>무성할 무</m>
+	</hanjaVO>
+	<hanjaVO idx="524">
+		<h>實</h>
+		<k>실</k>
+		<m>열매 실</m>
+	</hanjaVO>
+	<hanjaVO idx="525">
+		<h>勒</h>
+		<k>늑</k>
+		<m>굴레 륵</m>
+	</hanjaVO>
+	<hanjaVO idx="526">
+		<h>碑</h>
+		<k>비</k>
+		<m>비석 비</m>
+	</hanjaVO>
+	<hanjaVO idx="527">
+		<h>刻</h>
+		<k>각</k>
+		<m>새길 각</m>
+	</hanjaVO>
+	<hanjaVO idx="528">
+		<h>銘</h>
+		<k>명</k>
+		<m>새길 명</m>
+	</hanjaVO>
+	<hanjaVO idx="529">
+		<h>磻</h>
+		<k>반</k>
+		<m>강이름 반</m>
+	</hanjaVO>
+	<hanjaVO idx="530">
+		<h>溪</h>
+		<k>계</k>
+		<m>시내 계</m>
+	</hanjaVO>
+	<hanjaVO idx="531">
+		<h>伊</h>
+		<k>이</k>
+		<m>저 이</m>
+	</hanjaVO>
+	<hanjaVO idx="532">
+		<h>尹</h>
+		<k>윤</k>
+		<m>다스릴 윤</m>
+	</hanjaVO>
+	<hanjaVO idx="533">
+		<h>佐</h>
+		<k>좌</k>
+		<m>도울 좌</m>
+	</hanjaVO>
+	<hanjaVO idx="534">
+		<h>時</h>
+		<k>시</k>
+		<m>때 시</m>
+	</hanjaVO>
+	<hanjaVO idx="535">
+		<h>阿</h>
+		<k>아</k>
+		<m>언덕 아</m>
+	</hanjaVO>
+	<hanjaVO idx="536">
+		<h>衡</h>
+		<k>형</k>
+		<m>저울대 형</m>
+	</hanjaVO>
+	<hanjaVO idx="537">
+		<h>奄</h>
+		<k>엄</k>
+		<m>문득 엄</m>
+	</hanjaVO>
+	<hanjaVO idx="538">
+		<h>宅</h>
+		<k>택</k>
+		<m>집 댁/택</m>
+	</hanjaVO>
+	<hanjaVO idx="539">
+		<h>曲</h>
+		<k>곡</k>
+		<m>굽을 곡</m>
+	</hanjaVO>
+	<hanjaVO idx="540">
+		<h>阜</h>
+		<k>부</k>
+		<m>언덕 부</m>
+	</hanjaVO>
+	<hanjaVO idx="541">
+		<h>微</h>
+		<k>미</k>
+		<m>작을 미</m>
+	</hanjaVO>
+	<hanjaVO idx="542">
+		<h>旦</h>
+		<k>단</k>
+		<m>아침 단</m>
+	</hanjaVO>
+	<hanjaVO idx="543">
+		<h>孰</h>
+		<k>숙</k>
+		<m>누구 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="544">
+		<h>營</h>
+		<k>영</k>
+		<m>경영 영</m>
+	</hanjaVO>
+	<hanjaVO idx="545">
+		<h>桓</h>
+		<k>환</k>
+		<m>굳셀 환</m>
+	</hanjaVO>
+	<hanjaVO idx="546">
+		<h>公</h>
+		<k>공</k>
+		<m>공변될 공</m>
+	</hanjaVO>
+	<hanjaVO idx="547">
+		<h>匡</h>
+		<k>광</k>
+		<m>바를 광</m>
+	</hanjaVO>
+	<hanjaVO idx="548">
+		<h>合</h>
+		<k>합</k>
+		<m>모을 합</m>
+	</hanjaVO>
+	<hanjaVO idx="549">
+		<h>濟</h>
+		<k>제</k>
+		<m>건널 제</m>
+	</hanjaVO>
+	<hanjaVO idx="550">
+		<h>弱</h>
+		<k>약</k>
+		<m>약할 약</m>
+	</hanjaVO>
+	<hanjaVO idx="551">
+		<h>扶</h>
+		<k>부</k>
+		<m>도울 부</m>
+	</hanjaVO>
+	<hanjaVO idx="552">
+		<h>傾</h>
+		<k>경</k>
+		<m>기울 경</m>
+	</hanjaVO>
+	<hanjaVO idx="553">
+		<h>綺</h>
+		<k>기</k>
+		<m>비단 기</m>
+	</hanjaVO>
+	<hanjaVO idx="554">
+		<h>回</h>
+		<k>회</k>
+		<m>돌아올 회</m>
+	</hanjaVO>
+	<hanjaVO idx="555">
+		<h>漢</h>
+		<k>한</k>
+		<m>한수 한</m>
+	</hanjaVO>
+	<hanjaVO idx="556">
+		<h>惠</h>
+		<k>혜</k>
+		<m>은혜 혜</m>
+	</hanjaVO>
+	<hanjaVO idx="557">
+		<h>兌</h>
+		<k>열</k>
+		<m>말씀 설/달랠 세/기뻐할 열</m>
+	</hanjaVO>
+	<hanjaVO idx="558">
+		<h>感</h>
+		<k>감</k>
+		<m>느낄 감</m>
+	</hanjaVO>
+	<hanjaVO idx="559">
+		<h>武</h>
+		<k>무</k>
+		<m>호반 무</m>
+	</hanjaVO>
+	<hanjaVO idx="560">
+		<h>丁</h>
+		<k>정</k>
+		<m>고무래 정</m>
+	</hanjaVO>
+	<hanjaVO idx="561">
+		<h>俊</h>
+		<k>준</k>
+		<m>준걸 준</m>
+	</hanjaVO>
+	<hanjaVO idx="562">
+		<h>乂</h>
+		<k>예</k>
+		<m>어질 예</m>
+	</hanjaVO>
+	<hanjaVO idx="563">
+		<h>密</h>
+		<k>밀</k>
+		<m>빽빽할 밀</m>
+	</hanjaVO>
+	<hanjaVO idx="564">
+		<h>勿</h>
+		<k>물</k>
+		<m>말 물</m>
+	</hanjaVO>
+	<hanjaVO idx="565">
+		<h>多</h>
+		<k>다</k>
+		<m>많을 다</m>
+	</hanjaVO>
+	<hanjaVO idx="566">
+		<h>士</h>
+		<k>사</k>
+		<m>선비 사</m>
+	</hanjaVO>
+	<hanjaVO idx="567">
+		<h>寔</h>
+		<k>식</k>
+		<m>이 식</m>
+	</hanjaVO>
+	<hanjaVO idx="568">
+		<h>寧</h>
+		<k>녕</k>
+		<m>편안 녕</m>
+	</hanjaVO>
+	<hanjaVO idx="569">
+		<h>晋</h>
+		<k>진</k>
+		<m>나라 진</m>
+	</hanjaVO>
+	<hanjaVO idx="570">
+		<h>楚</h>
+		<k>초</k>
+		<m>나라 초</m>
+	</hanjaVO>
+	<hanjaVO idx="571">
+		<h>更</h>
+		<k>갱</k>
+		<m>다시 갱/고칠 경</m>
+	</hanjaVO>
+	<hanjaVO idx="572">
+		<h>覇</h>
+		<k>패</k>
+		<m>으뜸 패</m>
+	</hanjaVO>
+	<hanjaVO idx="573">
+		<h>趙</h>
+		<k>조</k>
+		<m>나라 조</m>
+	</hanjaVO>
+	<hanjaVO idx="574">
+		<h>魏</h>
+		<k>위</k>
+		<m>나라 위</m>
+	</hanjaVO>
+	<hanjaVO idx="575">
+		<h>困</h>
+		<k>곤</k>
+		<m>곤할 곤</m>
+	</hanjaVO>
+	<hanjaVO idx="576">
+		<h>橫</h>
+		<k>횡</k>
+		<m>비낄 횡</m>
+	</hanjaVO>
+	<hanjaVO idx="577">
+		<h>假</h>
+		<k>가</k>
+		<m>거짓 가</m>
+	</hanjaVO>
+	<hanjaVO idx="578">
+		<h>途</h>
+		<k>도</k>
+		<m>길 도</m>
+	</hanjaVO>
+	<hanjaVO idx="579">
+		<h>滅</h>
+		<k>멸</k>
+		<m>멸할 멸</m>
+	</hanjaVO>
+	<hanjaVO idx="580">
+		<h>虢</h>
+		<k>괵</k>
+		<m>나라 괵</m>
+	</hanjaVO>
+	<hanjaVO idx="581">
+		<h>踐</h>
+		<k>천</k>
+		<m>밟을 천</m>
+	</hanjaVO>
+	<hanjaVO idx="582">
+		<h>土</h>
+		<k>토</k>
+		<m>흙 토</m>
+	</hanjaVO>
+	<hanjaVO idx="583">
+		<h>會</h>
+		<k>회</k>
+		<m>모일 회</m>
+	</hanjaVO>
+	<hanjaVO idx="584">
+		<h>盟</h>
+		<k>맹</k>
+		<m>맹세 맹</m>
+	</hanjaVO>
+	<hanjaVO idx="585">
+		<h>何</h>
+		<k>하</k>
+		<m>어찌 하</m>
+	</hanjaVO>
+	<hanjaVO idx="586">
+		<h>遵</h>
+		<k>준</k>
+		<m>좇을 준</m>
+	</hanjaVO>
+	<hanjaVO idx="587">
+		<h>約</h>
+		<k>약</k>
+		<m>약속할 약</m>
+	</hanjaVO>
+	<hanjaVO idx="588">
+		<h>法</h>
+		<k>법</k>
+		<m>법 법</m>
+	</hanjaVO>
+	<hanjaVO idx="589">
+		<h>韓</h>
+		<k>한</k>
+		<m>나라 한</m>
+	</hanjaVO>
+	<hanjaVO idx="590">
+		<h>弊</h>
+		<k>폐</k>
+		<m>해질 폐</m>
+	</hanjaVO>
+	<hanjaVO idx="591">
+		<h>煩</h>
+		<k>번</k>
+		<m>번거로울 번</m>
+	</hanjaVO>
+	<hanjaVO idx="592">
+		<h>刑</h>
+		<k>형</k>
+		<m>형벌 형</m>
+	</hanjaVO>
+	<hanjaVO idx="593">
+		<h>起</h>
+		<k>기</k>
+		<m>일어날 기</m>
+	</hanjaVO>
+	<hanjaVO idx="594">
+		<h>翦</h>
+		<k>전</k>
+		<m>자를 전</m>
+	</hanjaVO>
+	<hanjaVO idx="595">
+		<h>頗</h>
+		<k>파</k>
+		<m>자못 파</m>
+	</hanjaVO>
+	<hanjaVO idx="596">
+		<h>牧</h>
+		<k>목</k>
+		<m>칠 목</m>
+	</hanjaVO>
+	<hanjaVO idx="597">
+		<h>用</h>
+		<k>용</k>
+		<m>쓸 용</m>
+	</hanjaVO>
+	<hanjaVO idx="598">
+		<h>軍</h>
+		<k>군</k>
+		<m>군사 군</m>
+	</hanjaVO>
+	<hanjaVO idx="599">
+		<h>最</h>
+		<k>최</k>
+		<m>가장 최</m>
+	</hanjaVO>
+	<hanjaVO idx="600">
+		<h>精</h>
+		<k>정</k>
+		<m>정할 정</m>
+	</hanjaVO>
+	<hanjaVO idx="601">
+		<h>宣</h>
+		<k>선</k>
+		<m>베풀 선</m>
+	</hanjaVO>
+	<hanjaVO idx="602">
+		<h>威</h>
+		<k>위</k>
+		<m>위엄 위</m>
+	</hanjaVO>
+	<hanjaVO idx="603">
+		<h>沙</h>
+		<k>사</k>
+		<m>모래 사</m>
+	</hanjaVO>
+	<hanjaVO idx="604">
+		<h>漠</h>
+		<k>막</k>
+		<m>아득할 막</m>
+	</hanjaVO>
+	<hanjaVO idx="605">
+		<h>馳</h>
+		<k>치</k>
+		<m>달릴 치</m>
+	</hanjaVO>
+	<hanjaVO idx="606">
+		<h>譽</h>
+		<k>예</k>
+		<m>칭찬할 예</m>
+	</hanjaVO>
+	<hanjaVO idx="607">
+		<h>丹</h>
+		<k>단</k>
+		<m>붉을 단</m>
+	</hanjaVO>
+	<hanjaVO idx="608">
+		<h>靑</h>
+		<k>청</k>
+		<m>푸를 청</m>
+	</hanjaVO>
+	<hanjaVO idx="609">
+		<h>九</h>
+		<k>구</k>
+		<m>아홉 구</m>
+	</hanjaVO>
+	<hanjaVO idx="610">
+		<h>州</h>
+		<k>주</k>
+		<m>고을 주</m>
+	</hanjaVO>
+	<hanjaVO idx="611">
+		<h>禹</h>
+		<k>우</k>
+		<m>하우씨 우</m>
+	</hanjaVO>
+	<hanjaVO idx="612">
+		<h>跡</h>
+		<k>적</k>
+		<m>자취 적</m>
+	</hanjaVO>
+	<hanjaVO idx="613">
+		<h>百</h>
+		<k>백</k>
+		<m>일백 백</m>
+	</hanjaVO>
+	<hanjaVO idx="614">
+		<h>郡</h>
+		<k>군</k>
+		<m>고을 군</m>
+	</hanjaVO>
+	<hanjaVO idx="615">
+		<h>秦</h>
+		<k>진</k>
+		<m>나라 진</m>
+	</hanjaVO>
+	<hanjaVO idx="616">
+		<h>幷</h>
+		<k>병</k>
+		<m>아우를 병</m>
+	</hanjaVO>
+	<hanjaVO idx="617">
+		<h>嶽</h>
+		<k>악</k>
+		<m>산마루 악</m>
+	</hanjaVO>
+	<hanjaVO idx="618">
+		<h>宗</h>
+		<k>종</k>
+		<m>마루 종</m>
+	</hanjaVO>
+	<hanjaVO idx="619">
+		<h>恒</h>
+		<k>항</k>
+		<m>항상 항</m>
+	</hanjaVO>
+	<hanjaVO idx="620">
+		<h>岱</h>
+		<k>대</k>
+		<m>뫼 대</m>
+	</hanjaVO>
+	<hanjaVO idx="621">
+		<h>禪</h>
+		<k>선</k>
+		<m>터닦을 선</m>
+	</hanjaVO>
+	<hanjaVO idx="622">
+		<h>主</h>
+		<k>주</k>
+		<m>임금 주</m>
+	</hanjaVO>
+	<hanjaVO idx="623">
+		<h>云</h>
+		<k>운</k>
+		<m>이를 운</m>
+	</hanjaVO>
+	<hanjaVO idx="624">
+		<h>亭</h>
+		<k>정</k>
+		<m>정자 정</m>
+	</hanjaVO>
+	<hanjaVO idx="625">
+		<h>雁</h>
+		<k>안</k>
+		<m>기러기 안</m>
+	</hanjaVO>
+	<hanjaVO idx="626">
+		<h>門</h>
+		<k>문</k>
+		<m>문 문</m>
+	</hanjaVO>
+	<hanjaVO idx="627">
+		<h>紫</h>
+		<k>자</k>
+		<m>붉을 자</m>
+	</hanjaVO>
+	<hanjaVO idx="628">
+		<h>塞</h>
+		<k>새</k>
+		<m>변방 새</m>
+	</hanjaVO>
+	<hanjaVO idx="629">
+		<h>鷄</h>
+		<k>계</k>
+		<m>닭 계</m>
+	</hanjaVO>
+	<hanjaVO idx="630">
+		<h>田</h>
+		<k>전</k>
+		<m>밭 전</m>
+	</hanjaVO>
+	<hanjaVO idx="631">
+		<h>赤</h>
+		<k>적</k>
+		<m>붉을 적</m>
+	</hanjaVO>
+	<hanjaVO idx="632">
+		<h>城</h>
+		<k>성</k>
+		<m>성 성</m>
+	</hanjaVO>
+	<hanjaVO idx="633">
+		<h>昆</h>
+		<k>곤</k>
+		<m>맏 곤</m>
+	</hanjaVO>
+	<hanjaVO idx="634">
+		<h>池</h>
+		<k>지</k>
+		<m>못 지</m>
+	</hanjaVO>
+	<hanjaVO idx="635">
+		<h>碣</h>
+		<k>갈</k>
+		<m>돌 갈</m>
+	</hanjaVO>
+	<hanjaVO idx="636">
+		<h>石</h>
+		<k>석</k>
+		<m>돌 석</m>
+	</hanjaVO>
+	<hanjaVO idx="637">
+		<h>鉅</h>
+		<k>거</k>
+		<m>클 거</m>
+	</hanjaVO>
+	<hanjaVO idx="638">
+		<h>野</h>
+		<k>야</k>
+		<m>들 야</m>
+	</hanjaVO>
+	<hanjaVO idx="639">
+		<h>洞</h>
+		<k>동</k>
+		<m>골 동/꿰뚫을 통</m>
+	</hanjaVO>
+	<hanjaVO idx="640">
+		<h>庭</h>
+		<k>정</k>
+		<m>뜰 정</m>
+	</hanjaVO>
+	<hanjaVO idx="641">
+		<h>曠</h>
+		<k>광</k>
+		<m>빌 광</m>
+	</hanjaVO>
+	<hanjaVO idx="642">
+		<h>遠</h>
+		<k>원</k>
+		<m>멀 원</m>
+	</hanjaVO>
+	<hanjaVO idx="643">
+		<h>綿</h>
+		<k>면</k>
+		<m>이어질 면</m>
+	</hanjaVO>
+	<hanjaVO idx="644">
+		<h>邈</h>
+		<k>막</k>
+		<m>멀 막</m>
+	</hanjaVO>
+	<hanjaVO idx="645">
+		<h>巖</h>
+		<k>암</k>
+		<m>바위 암</m>
+	</hanjaVO>
+	<hanjaVO idx="646">
+		<h>峀</h>
+		<k>수</k>
+		<m>메뿌리 수</m>
+	</hanjaVO>
+	<hanjaVO idx="647">
+		<h>杳</h>
+		<k>묘</k>
+		<m>아득할 묘</m>
+	</hanjaVO>
+	<hanjaVO idx="648">
+		<h>冥</h>
+		<k>명</k>
+		<m>어두울 명</m>
+	</hanjaVO>
+	<hanjaVO idx="649">
+		<h>治</h>
+		<k>치</k>
+		<m>다스릴 치</m>
+	</hanjaVO>
+	<hanjaVO idx="650">
+		<h>本</h>
+		<k>본</k>
+		<m>근본 본</m>
+	</hanjaVO>
+	<hanjaVO idx="651">
+		<h>於</h>
+		<k>어</k>
+		<m>어조사 어</m>
+	</hanjaVO>
+	<hanjaVO idx="652">
+		<h>農</h>
+		<k>농</k>
+		<m>농사 농</m>
+	</hanjaVO>
+	<hanjaVO idx="653">
+		<h>務</h>
+		<k>무</k>
+		<m>힘쓸 무</m>
+	</hanjaVO>
+	<hanjaVO idx="654">
+		<h>玆</h>
+		<k>자</k>
+		<m>이 자</m>
+	</hanjaVO>
+	<hanjaVO idx="655">
+		<h>稼</h>
+		<k>가</k>
+		<m>심을 가</m>
+	</hanjaVO>
+	<hanjaVO idx="656">
+		<h>穡</h>
+		<k>색</k>
+		<m>거둘 색</m>
+	</hanjaVO>
+	<hanjaVO idx="657">
+		<h>俶</h>
+		<k>숙</k>
+		<m>비로소 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="658">
+		<h>載</h>
+		<k>재</k>
+		<m>실을 재</m>
+	</hanjaVO>
+	<hanjaVO idx="659">
+		<h>南</h>
+		<k>남</k>
+		<m>남녘 남</m>
+	</hanjaVO>
+	<hanjaVO idx="660">
+		<h>畝</h>
+		<k>묘</k>
+		<m>이랑 묘</m>
+	</hanjaVO>
+	<hanjaVO idx="661">
+		<h>我</h>
+		<k>아</k>
+		<m>나 아</m>
+	</hanjaVO>
+	<hanjaVO idx="662">
+		<h>藝</h>
+		<k>예</k>
+		<m>재주 예</m>
+	</hanjaVO>
+	<hanjaVO idx="663">
+		<h>黍</h>
+		<k>서</k>
+		<m>기장 서</m>
+	</hanjaVO>
+	<hanjaVO idx="664">
+		<h>稷</h>
+		<k>직</k>
+		<m>피 직</m>
+	</hanjaVO>
+	<hanjaVO idx="665">
+		<h>稅</h>
+		<k>세</k>
+		<m>징수할 세</m>
+	</hanjaVO>
+	<hanjaVO idx="666">
+		<h>熟</h>
+		<k>숙</k>
+		<m>익을 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="667">
+		<h>貢</h>
+		<k>공</k>
+		<m>바칠 공</m>
+	</hanjaVO>
+	<hanjaVO idx="668">
+		<h>新</h>
+		<k>신</k>
+		<m>새 신</m>
+	</hanjaVO>
+	<hanjaVO idx="669">
+		<h>勸</h>
+		<k>권</k>
+		<m>권할 권</m>
+	</hanjaVO>
+	<hanjaVO idx="670">
+		<h>賞</h>
+		<k>상</k>
+		<m>상줄 상</m>
+	</hanjaVO>
+	<hanjaVO idx="671">
+		<h>黜</h>
+		<k>출</k>
+		<m>물리칠 출</m>
+	</hanjaVO>
+	<hanjaVO idx="672">
+		<h>陟</h>
+		<k>척</k>
+		<m>오를 척</m>
+	</hanjaVO>
+	<hanjaVO idx="673">
+		<h>孟</h>
+		<k>맹</k>
+		<m>맏 맹</m>
+	</hanjaVO>
+	<hanjaVO idx="674">
+		<h>軻</h>
+		<k>가</k>
+		<m>수레 가</m>
+	</hanjaVO>
+	<hanjaVO idx="675">
+		<h>敦</h>
+		<k>돈</k>
+		<m>도타울 돈</m>
+	</hanjaVO>
+	<hanjaVO idx="676">
+		<h>素</h>
+		<k>소</k>
+		<m>흴 소</m>
+	</hanjaVO>
+	<hanjaVO idx="677">
+		<h>史</h>
+		<k>사</k>
+		<m>역사 사</m>
+	</hanjaVO>
+	<hanjaVO idx="678">
+		<h>魚</h>
+		<k>어</k>
+		<m>물고기 어</m>
+	</hanjaVO>
+	<hanjaVO idx="679">
+		<h>秉</h>
+		<k>병</k>
+		<m>잡을 병</m>
+	</hanjaVO>
+	<hanjaVO idx="680">
+		<h>直</h>
+		<k>직</k>
+		<m>곧을 직</m>
+	</hanjaVO>
+	<hanjaVO idx="681">
+		<h>庶</h>
+		<k>서</k>
+		<m>여러 서</m>
+	</hanjaVO>
+	<hanjaVO idx="682">
+		<h>幾</h>
+		<k>기</k>
+		<m>몇 기</m>
+	</hanjaVO>
+	<hanjaVO idx="683">
+		<h>中</h>
+		<k>중</k>
+		<m>가운데 중</m>
+	</hanjaVO>
+	<hanjaVO idx="684">
+		<h>庸</h>
+		<k>용</k>
+		<m>떳떳 용</m>
+	</hanjaVO>
+	<hanjaVO idx="685">
+		<h>勞</h>
+		<k>노</k>
+		<m>힘쓸 로</m>
+	</hanjaVO>
+	<hanjaVO idx="686">
+		<h>謙</h>
+		<k>겸</k>
+		<m>겸손 겸</m>
+	</hanjaVO>
+	<hanjaVO idx="687">
+		<h>謹</h>
+		<k>근</k>
+		<m>삼갈 근</m>
+	</hanjaVO>
+	<hanjaVO idx="688">
+		<h>勅</h>
+		<k>칙</k>
+		<m>칙서 칙</m>
+	</hanjaVO>
+	<hanjaVO idx="689">
+		<h>聆</h>
+		<k>영</k>
+		<m>들을 령</m>
+	</hanjaVO>
+	<hanjaVO idx="690">
+		<h>音</h>
+		<k>음</k>
+		<m>소리 음</m>
+	</hanjaVO>
+	<hanjaVO idx="691">
+		<h>察</h>
+		<k>찰</k>
+		<m>살필 찰</m>
+	</hanjaVO>
+	<hanjaVO idx="692">
+		<h>理</h>
+		<k>리</k>
+		<m>다스릴 리</m>
+	</hanjaVO>
+	<hanjaVO idx="693">
+		<h>鑑</h>
+		<k>감</k>
+		<m>거울 감</m>
+	</hanjaVO>
+	<hanjaVO idx="694">
+		<h>貌</h>
+		<k>모</k>
+		<m>모양 모</m>
+	</hanjaVO>
+	<hanjaVO idx="695">
+		<h>辨</h>
+		<k>변</k>
+		<m>분별 변</m>
+	</hanjaVO>
+	<hanjaVO idx="696">
+		<h>色</h>
+		<k>색</k>
+		<m>빛 색</m>
+	</hanjaVO>
+	<hanjaVO idx="697">
+		<h>貽</h>
+		<k>이</k>
+		<m>끼칠 이</m>
+	</hanjaVO>
+	<hanjaVO idx="698">
+		<h>厥</h>
+		<k>궐</k>
+		<m>그 궐</m>
+	</hanjaVO>
+	<hanjaVO idx="699">
+		<h>嘉</h>
+		<k>가</k>
+		<m>아름다울 가</m>
+	</hanjaVO>
+	<hanjaVO idx="700">
+		<h>猷</h>
+		<k>유</k>
+		<m>꾀 유</m>
+	</hanjaVO>
+	<hanjaVO idx="701">
+		<h>勉</h>
+		<k>면</k>
+		<m>힘쓸 면</m>
+	</hanjaVO>
+	<hanjaVO idx="702">
+		<h>其</h>
+		<k>기</k>
+		<m>그 기</m>
+	</hanjaVO>
+	<hanjaVO idx="703">
+		<h>祗</h>
+		<k>지</k>
+		<m>공경 지</m>
+	</hanjaVO>
+	<hanjaVO idx="704">
+		<h>植</h>
+		<k>식</k>
+		<m>심을 식</m>
+	</hanjaVO>
+	<hanjaVO idx="705">
+		<h>省</h>
+		<k>생</k>
+		<m>살필 성/덜 생</m>
+	</hanjaVO>
+	<hanjaVO idx="706">
+		<h>躬</h>
+		<k>궁</k>
+		<m>몸 궁</m>
+	</hanjaVO>
+	<hanjaVO idx="707">
+		<h>譏</h>
+		<k>기</k>
+		<m>나무랄 기</m>
+	</hanjaVO>
+	<hanjaVO idx="708">
+		<h>誡</h>
+		<k>계</k>
+		<m>경계 계</m>
+	</hanjaVO>
+	<hanjaVO idx="709">
+		<h>寵</h>
+		<k>총</k>
+		<m>고일 총</m>
+	</hanjaVO>
+	<hanjaVO idx="710">
+		<h>增</h>
+		<k>증</k>
+		<m>더할 증</m>
+	</hanjaVO>
+	<hanjaVO idx="711">
+		<h>抗</h>
+		<k>항</k>
+		<m>저항할 항</m>
+	</hanjaVO>
+	<hanjaVO idx="712">
+		<h>極</h>
+		<k>극</k>
+		<m>다할 극</m>
+	</hanjaVO>
+	<hanjaVO idx="713">
+		<h>殆</h>
+		<k>태</k>
+		<m>위태 태</m>
+	</hanjaVO>
+	<hanjaVO idx="714">
+		<h>辱</h>
+		<k>욕</k>
+		<m>욕할 욕</m>
+	</hanjaVO>
+	<hanjaVO idx="715">
+		<h>近</h>
+		<k>근</k>
+		<m>가까울 근</m>
+	</hanjaVO>
+	<hanjaVO idx="716">
+		<h>恥</h>
+		<k>치</k>
+		<m>부끄러울 치</m>
+	</hanjaVO>
+	<hanjaVO idx="717">
+		<h>林</h>
+		<k>임</k>
+		<m>수풀 림</m>
+	</hanjaVO>
+	<hanjaVO idx="718">
+		<h>皐</h>
+		<k>고</k>
+		<m>언덕 고</m>
+	</hanjaVO>
+	<hanjaVO idx="719">
+		<h>幸</h>
+		<k>행</k>
+		<m>다행 행</m>
+	</hanjaVO>
+	<hanjaVO idx="720">
+		<h>卽</h>
+		<k>즉</k>
+		<m>곧 즉</m>
+	</hanjaVO>
+	<hanjaVO idx="721">
+		<h>兩</h>
+		<k>양</k>
+		<m>두 량</m>
+	</hanjaVO>
+	<hanjaVO idx="722">
+		<h>疏</h>
+		<k>소</k>
+		<m>상소할 소</m>
+	</hanjaVO>
+	<hanjaVO idx="723">
+		<h>見</h>
+		<k>견</k>
+		<m>볼 견/나타날 현</m>
+	</hanjaVO>
+	<hanjaVO idx="724">
+		<h>機</h>
+		<k>기</k>
+		<m>틀 기</m>
+	</hanjaVO>
+	<hanjaVO idx="725">
+		<h>解</h>
+		<k>해</k>
+		<m>풀 해</m>
+	</hanjaVO>
+	<hanjaVO idx="726">
+		<h>組</h>
+		<k>조</k>
+		<m>짤 조</m>
+	</hanjaVO>
+	<hanjaVO idx="727">
+		<h>誰</h>
+		<k>수</k>
+		<m>누구 수</m>
+	</hanjaVO>
+	<hanjaVO idx="728">
+		<h>逼</h>
+		<k>핍</k>
+		<m>핍박할 핍</m>
+	</hanjaVO>
+	<hanjaVO idx="729">
+		<h>索</h>
+		<k>삭</k>
+		<m>찾을 색</m>
+	</hanjaVO>
+	<hanjaVO idx="730">
+		<h>居</h>
+		<k>거</k>
+		<m>살 거</m>
+	</hanjaVO>
+	<hanjaVO idx="731">
+		<h>閑</h>
+		<k>한</k>
+		<m>한가 한</m>
+	</hanjaVO>
+	<hanjaVO idx="732">
+		<h>處</h>
+		<k>처</k>
+		<m>곳 처</m>
+	</hanjaVO>
+	<hanjaVO idx="733">
+		<h>沈</h>
+		<k>침</k>
+		<m>잠길 침</m>
+	</hanjaVO>
+	<hanjaVO idx="734">
+		<h>黙</h>
+		<k>묵</k>
+		<m>잠잠할 묵</m>
+	</hanjaVO>
+	<hanjaVO idx="735">
+		<h>寂</h>
+		<k>적</k>
+		<m>고요할 적</m>
+	</hanjaVO>
+	<hanjaVO idx="736">
+		<h>寥</h>
+		<k>요</k>
+		<m>고요 요</m>
+	</hanjaVO>
+	<hanjaVO idx="737">
+		<h>求</h>
+		<k>구</k>
+		<m>구할 구</m>
+	</hanjaVO>
+	<hanjaVO idx="738">
+		<h>古</h>
+		<k>고</k>
+		<m>옛 고</m>
+	</hanjaVO>
+	<hanjaVO idx="739">
+		<h>尋</h>
+		<k>심</k>
+		<m>찾을 심</m>
+	</hanjaVO>
+	<hanjaVO idx="740">
+		<h>論</h>
+		<k>론</k>
+		<m>의논할 론</m>
+	</hanjaVO>
+	<hanjaVO idx="741">
+		<h>散</h>
+		<k>산</k>
+		<m>흩을 산</m>
+	</hanjaVO>
+	<hanjaVO idx="742">
+		<h>慮</h>
+		<k>려</k>
+		<m>생각 려</m>
+	</hanjaVO>
+	<hanjaVO idx="743">
+		<h>逍</h>
+		<k>소</k>
+		<m>거닐 소</m>
+	</hanjaVO>
+	<hanjaVO idx="744">
+		<h>遙</h>
+		<k>요</k>
+		<m>멀 요</m>
+	</hanjaVO>
+	<hanjaVO idx="745">
+		<h>欣</h>
+		<k>흔</k>
+		<m>기쁠 흔</m>
+	</hanjaVO>
+	<hanjaVO idx="746">
+		<h>奏</h>
+		<k>주</k>
+		<m>아뢸 주</m>
+	</hanjaVO>
+	<hanjaVO idx="747">
+		<h>累</h>
+		<k>누</k>
+		<m>여러 루</m>
+	</hanjaVO>
+	<hanjaVO idx="748">
+		<h>遣</h>
+		<k>견</k>
+		<m>보낼 견</m>
+	</hanjaVO>
+	<hanjaVO idx="749">
+		<h>慼</h>
+		<k>척</k>
+		<m>슬플 척</m>
+	</hanjaVO>
+	<hanjaVO idx="750">
+		<h>謝</h>
+		<k>사</k>
+		<m>사례 사</m>
+	</hanjaVO>
+	<hanjaVO idx="751">
+		<h>歡</h>
+		<k>환</k>
+		<m>기뻐할 환</m>
+	</hanjaVO>
+	<hanjaVO idx="752">
+		<h>招</h>
+		<k>초</k>
+		<m>부를 초</m>
+	</hanjaVO>
+	<hanjaVO idx="753">
+		<h>渠</h>
+		<k>거</k>
+		<m>개천 거</m>
+	</hanjaVO>
+	<hanjaVO idx="754">
+		<h>荷</h>
+		<k>하</k>
+		<m>연꽃 하</m>
+	</hanjaVO>
+	<hanjaVO idx="755">
+		<h>的</h>
+		<k>적</k>
+		<m>과녁 적</m>
+	</hanjaVO>
+	<hanjaVO idx="756">
+		<h>歷</h>
+		<k>력</k>
+		<m>지낼 력</m>
+	</hanjaVO>
+	<hanjaVO idx="757">
+		<h>園</h>
+		<k>원</k>
+		<m>동산 원</m>
+	</hanjaVO>
+	<hanjaVO idx="758">
+		<h>莽</h>
+		<k>망</k>
+		<m>풀 망</m>
+	</hanjaVO>
+	<hanjaVO idx="759">
+		<h>抽</h>
+		<k>추</k>
+		<m>빼낼 추</m>
+	</hanjaVO>
+	<hanjaVO idx="760">
+		<h>條</h>
+		<k>조</k>
+		<m>조목 조</m>
+	</hanjaVO>
+	<hanjaVO idx="761">
+		<h>枇</h>
+		<k>비</k>
+		<m>비파나무 비</m>
+	</hanjaVO>
+	<hanjaVO idx="762">
+		<h>杷</h>
+		<k>파</k>
+		<m>비파나무 파</m>
+	</hanjaVO>
+	<hanjaVO idx="763">
+		<h>晩</h>
+		<k>만</k>
+		<m>늦을 만</m>
+	</hanjaVO>
+	<hanjaVO idx="764">
+		<h>翠</h>
+		<k>취</k>
+		<m>푸를 취</m>
+	</hanjaVO>
+	<hanjaVO idx="765">
+		<h>梧</h>
+		<k>오</k>
+		<m>오동 오</m>
+	</hanjaVO>
+	<hanjaVO idx="766">
+		<h>桐</h>
+		<k>동</k>
+		<m>오동 동</m>
+	</hanjaVO>
+	<hanjaVO idx="767">
+		<h>早</h>
+		<k>조</k>
+		<m>이를 조</m>
+	</hanjaVO>
+	<hanjaVO idx="768">
+		<h>凋</h>
+		<k>조</k>
+		<m>시들 조</m>
+	</hanjaVO>
+	<hanjaVO idx="769">
+		<h>陳</h>
+		<k>진</k>
+		<m>베풀 진</m>
+	</hanjaVO>
+	<hanjaVO idx="770">
+		<h>根</h>
+		<k>근</k>
+		<m>뿌리 근</m>
+	</hanjaVO>
+	<hanjaVO idx="771">
+		<h>委</h>
+		<k>위</k>
+		<m>맡길 위</m>
+	</hanjaVO>
+	<hanjaVO idx="772">
+		<h>翳</h>
+		<k>예</k>
+		<m>가릴 예</m>
+	</hanjaVO>
+	<hanjaVO idx="773">
+		<h>落</h>
+		<k>낙</k>
+		<m>떨어질 락</m>
+	</hanjaVO>
+	<hanjaVO idx="774">
+		<h>葉</h>
+		<k>엽</k>
+		<m>잎사귀 엽</m>
+	</hanjaVO>
+	<hanjaVO idx="775">
+		<h>飄</h>
+		<k>표</k>
+		<m>나부낄 표</m>
+	</hanjaVO>
+	<hanjaVO idx="776">
+		<h>颻</h>
+		<k>요</k>
+		<m>나부낄 요</m>
+	</hanjaVO>
+	<hanjaVO idx="777">
+		<h>遊</h>
+		<k>유</k>
+		<m>헤엄칠 유</m>
+	</hanjaVO>
+	<hanjaVO idx="778">
+		<h>鵾</h>
+		<k>곤</k>
+		<m>곤새 곤</m>
+	</hanjaVO>
+	<hanjaVO idx="779">
+		<h>獨</h>
+		<k>독</k>
+		<m>홀로 독</m>
+	</hanjaVO>
+	<hanjaVO idx="780">
+		<h>運</h>
+		<k>운</k>
+		<m>운전 운</m>
+	</hanjaVO>
+	<hanjaVO idx="781">
+		<h>凌</h>
+		<k>능</k>
+		<m>업신여길 릉</m>
+	</hanjaVO>
+	<hanjaVO idx="782">
+		<h>摩</h>
+		<k>마</k>
+		<m>만질 마</m>
+	</hanjaVO>
+	<hanjaVO idx="783">
+		<h>絳</h>
+		<k>강</k>
+		<m>붉을 강</m>
+	</hanjaVO>
+	<hanjaVO idx="784">
+		<h>霄</h>
+		<k>소</k>
+		<m>하늘 소</m>
+	</hanjaVO>
+	<hanjaVO idx="785">
+		<h>耽</h>
+		<k>탐</k>
+		<m>즐길 탐</m>
+	</hanjaVO>
+	<hanjaVO idx="786">
+		<h>讀</h>
+		<k>독</k>
+		<m>읽을 독/이두 두</m>
+	</hanjaVO>
+	<hanjaVO idx="787">
+		<h>翫</h>
+		<k>완</k>
+		<m>가지고놀 완</m>
+	</hanjaVO>
+	<hanjaVO idx="788">
+		<h>市</h>
+		<k>시</k>
+		<m>저자 시</m>
+	</hanjaVO>
+	<hanjaVO idx="789">
+		<h>寓</h>
+		<k>우</k>
+		<m>붙일 우</m>
+	</hanjaVO>
+	<hanjaVO idx="790">
+		<h>目</h>
+		<k>목</k>
+		<m>눈 목</m>
+	</hanjaVO>
+	<hanjaVO idx="791">
+		<h>囊</h>
+		<k>낭</k>
+		<m>주머니 낭</m>
+	</hanjaVO>
+	<hanjaVO idx="792">
+		<h>箱</h>
+		<k>상</k>
+		<m>상자 상</m>
+	</hanjaVO>
+	<hanjaVO idx="793">
+		<h>易</h>
+		<k>이</k>
+		<m>쉬울 이/바꿀 역</m>
+	</hanjaVO>
+	<hanjaVO idx="794">
+		<h>輶</h>
+		<k>유</k>
+		<m>가벼울 유</m>
+	</hanjaVO>
+	<hanjaVO idx="795">
+		<h>攸</h>
+		<k>유</k>
+		<m>바 유</m>
+	</hanjaVO>
+	<hanjaVO idx="796">
+		<h>畏</h>
+		<k>외</k>
+		<m>두려워할 외</m>
+	</hanjaVO>
+	<hanjaVO idx="797">
+		<h>屬</h>
+		<k>속</k>
+		<m>붙을 속/이을 촉</m>
+	</hanjaVO>
+	<hanjaVO idx="798">
+		<h>耳</h>
+		<k>이</k>
+		<m>귀 이</m>
+	</hanjaVO>
+	<hanjaVO idx="799">
+		<h>垣</h>
+		<k>원</k>
+		<m>담 원</m>
+	</hanjaVO>
+	<hanjaVO idx="800">
+		<h>牆</h>
+		<k>장</k>
+		<m>담 장</m>
+	</hanjaVO>
+	<hanjaVO idx="801">
+		<h>具</h>
+		<k>구</k>
+		<m>갖출 구</m>
+	</hanjaVO>
+	<hanjaVO idx="802">
+		<h>膳</h>
+		<k>선</k>
+		<m>반찬 선</m>
+	</hanjaVO>
+	<hanjaVO idx="803">
+		<h>飱</h>
+		<k>손</k>
+		<m>밥 손</m>
+	</hanjaVO>
+	<hanjaVO idx="804">
+		<h>飯</h>
+		<k>반</k>
+		<m>밥 반</m>
+	</hanjaVO>
+	<hanjaVO idx="805">
+		<h>適</h>
+		<k>적</k>
+		<m>마침 적</m>
+	</hanjaVO>
+	<hanjaVO idx="806">
+		<h>口</h>
+		<k>구</k>
+		<m>입 구</m>
+	</hanjaVO>
+	<hanjaVO idx="807">
+		<h>充</h>
+		<k>충</k>
+		<m>채울 충</m>
+	</hanjaVO>
+	<hanjaVO idx="808">
+		<h>腸</h>
+		<k>장</k>
+		<m>창자 장</m>
+	</hanjaVO>
+	<hanjaVO idx="809">
+		<h>飽</h>
+		<k>포</k>
+		<m>배부를 포</m>
+	</hanjaVO>
+	<hanjaVO idx="810">
+		<h>飫</h>
+		<k>어</k>
+		<m>배부를 어</m>
+	</hanjaVO>
+	<hanjaVO idx="811">
+		<h>烹</h>
+		<k>팽</k>
+		<m>삶을 팽</m>
+	</hanjaVO>
+	<hanjaVO idx="812">
+		<h>宰</h>
+		<k>재</k>
+		<m>재상 재</m>
+	</hanjaVO>
+	<hanjaVO idx="813">
+		<h>饑</h>
+		<k>기</k>
+		<m>주릴 기</m>
+	</hanjaVO>
+	<hanjaVO idx="814">
+		<h>厭</h>
+		<k>염</k>
+		<m>싫을 염</m>
+	</hanjaVO>
+	<hanjaVO idx="815">
+		<h>糟</h>
+		<k>조</k>
+		<m>재강 조</m>
+	</hanjaVO>
+	<hanjaVO idx="816">
+		<h>糠</h>
+		<k>강</k>
+		<m>겨 강</m>
+	</hanjaVO>
+	<hanjaVO idx="817">
+		<h>親</h>
+		<k>친</k>
+		<m>친할 친</m>
+	</hanjaVO>
+	<hanjaVO idx="818">
+		<h>戚</h>
+		<k>척</k>
+		<m>겨레 척</m>
+	</hanjaVO>
+	<hanjaVO idx="819">
+		<h>故</h>
+		<k>고</k>
+		<m>연고 고</m>
+	</hanjaVO>
+	<hanjaVO idx="820">
+		<h>舊</h>
+		<k>구</k>
+		<m>옛 구</m>
+	</hanjaVO>
+	<hanjaVO idx="821">
+		<h>老</h>
+		<k>노</k>
+		<m>늙을 로</m>
+	</hanjaVO>
+	<hanjaVO idx="822">
+		<h>少</h>
+		<k>소</k>
+		<m>젊을 소</m>
+	</hanjaVO>
+	<hanjaVO idx="823">
+		<h>異</h>
+		<k>이</k>
+		<m>다를 이</m>
+	</hanjaVO>
+	<hanjaVO idx="824">
+		<h>糧</h>
+		<k>량</k>
+		<m>양식 량</m>
+	</hanjaVO>
+	<hanjaVO idx="825">
+		<h>妾</h>
+		<k>첩</k>
+		<m>첩 첩</m>
+	</hanjaVO>
+	<hanjaVO idx="826">
+		<h>御</h>
+		<k>어</k>
+		<m>모실 어</m>
+	</hanjaVO>
+	<hanjaVO idx="827">
+		<h>績</h>
+		<k>적</k>
+		<m>길쌈 적</m>
+	</hanjaVO>
+	<hanjaVO idx="828">
+		<h>紡</h>
+		<k>방</k>
+		<m>길쌈 방</m>
+	</hanjaVO>
+	<hanjaVO idx="829">
+		<h>侍</h>
+		<k>시</k>
+		<m>모실 시</m>
+	</hanjaVO>
+	<hanjaVO idx="830">
+		<h>巾</h>
+		<k>건</k>
+		<m>수건 건</m>
+	</hanjaVO>
+	<hanjaVO idx="831">
+		<h>帷</h>
+		<k>유</k>
+		<m>장막 유</m>
+	</hanjaVO>
+	<hanjaVO idx="832">
+		<h>房</h>
+		<k>방</k>
+		<m>방 방</m>
+	</hanjaVO>
+	<hanjaVO idx="833">
+		<h>紈</h>
+		<k>환</k>
+		<m>흰비단 환</m>
+	</hanjaVO>
+	<hanjaVO idx="834">
+		<h>扇</h>
+		<k>선</k>
+		<m>부채 선</m>
+	</hanjaVO>
+	<hanjaVO idx="835">
+		<h>圓</h>
+		<k>원</k>
+		<m>둥글 원</m>
+	</hanjaVO>
+	<hanjaVO idx="836">
+		<h>潔</h>
+		<k>결</k>
+		<m>깨끗할 결</m>
+	</hanjaVO>
+	<hanjaVO idx="837">
+		<h>銀</h>
+		<k>은</k>
+		<m>은 은</m>
+	</hanjaVO>
+	<hanjaVO idx="838">
+		<h>燭</h>
+		<k>촉</k>
+		<m>촛불 촉</m>
+	</hanjaVO>
+	<hanjaVO idx="839">
+		<h>煒</h>
+		<k>위</k>
+		<m>빛날 위</m>
+	</hanjaVO>
+	<hanjaVO idx="840">
+		<h>煌</h>
+		<k>황</k>
+		<m>빛날 황</m>
+	</hanjaVO>
+	<hanjaVO idx="841">
+		<h>晝</h>
+		<k>주</k>
+		<m>낮 주</m>
+	</hanjaVO>
+	<hanjaVO idx="842">
+		<h>眠</h>
+		<k>면</k>
+		<m>잘 면</m>
+	</hanjaVO>
+	<hanjaVO idx="843">
+		<h>夕</h>
+		<k>석</k>
+		<m>저녁 석</m>
+	</hanjaVO>
+	<hanjaVO idx="844">
+		<h>寐</h>
+		<k>매</k>
+		<m>잘 매</m>
+	</hanjaVO>
+	<hanjaVO idx="845">
+		<h>藍</h>
+		<k>남</k>
+		<m>쪽 람</m>
+	</hanjaVO>
+	<hanjaVO idx="846">
+		<h>筍</h>
+		<k>순</k>
+		<m>죽순 순</m>
+	</hanjaVO>
+	<hanjaVO idx="847">
+		<h>象</h>
+		<k>상</k>
+		<m>코끼리 상</m>
+	</hanjaVO>
+	<hanjaVO idx="848">
+		<h>床</h>
+		<k>상</k>
+		<m>상 상</m>
+	</hanjaVO>
+	<hanjaVO idx="849">
+		<h>弦</h>
+		<k>현</k>
+		<m>줄 현</m>
+	</hanjaVO>
+	<hanjaVO idx="850">
+		<h>歌</h>
+		<k>가</k>
+		<m>노래 가</m>
+	</hanjaVO>
+	<hanjaVO idx="851">
+		<h>酒</h>
+		<k>주</k>
+		<m>술 주</m>
+	</hanjaVO>
+	<hanjaVO idx="852">
+		<h>讌</h>
+		<k>연</k>
+		<m>잔치 연</m>
+	</hanjaVO>
+	<hanjaVO idx="853">
+		<h>接</h>
+		<k>접</k>
+		<m>이을 접</m>
+	</hanjaVO>
+	<hanjaVO idx="854">
+		<h>杯</h>
+		<k>배</k>
+		<m>잔 배</m>
+	</hanjaVO>
+	<hanjaVO idx="855">
+		<h>擧</h>
+		<k>거</k>
+		<m>들 거</m>
+	</hanjaVO>
+	<hanjaVO idx="856">
+		<h>觴</h>
+		<k>상</k>
+		<m>잔 상</m>
+	</hanjaVO>
+	<hanjaVO idx="857">
+		<h>矯</h>
+		<k>교</k>
+		<m>바로잡을 교</m>
+	</hanjaVO>
+	<hanjaVO idx="858">
+		<h>手</h>
+		<k>수</k>
+		<m>손 수</m>
+	</hanjaVO>
+	<hanjaVO idx="859">
+		<h>頓</h>
+		<k>돈</k>
+		<m>두드릴 돈</m>
+	</hanjaVO>
+	<hanjaVO idx="860">
+		<h>足</h>
+		<k>족</k>
+		<m>발 족</m>
+	</hanjaVO>
+	<hanjaVO idx="861">
+		<h>悅</h>
+		<k>열</k>
+		<m>기쁠 열</m>
+	</hanjaVO>
+	<hanjaVO idx="862">
+		<h>豫</h>
+		<k>예</k>
+		<m>미리 예</m>
+	</hanjaVO>
+	<hanjaVO idx="863">
+		<h>且</h>
+		<k>차</k>
+		<m>또 차</m>
+	</hanjaVO>
+	<hanjaVO idx="864">
+		<h>康</h>
+		<k>강</k>
+		<m>편안 강</m>
+	</hanjaVO>
+	<hanjaVO idx="865">
+		<h>嫡</h>
+		<k>적</k>
+		<m>정실 적</m>
+	</hanjaVO>
+	<hanjaVO idx="866">
+		<h>後</h>
+		<k>후</k>
+		<m>뒤 후</m>
+	</hanjaVO>
+	<hanjaVO idx="867">
+		<h>嗣</h>
+		<k>사</k>
+		<m>이을 사</m>
+	</hanjaVO>
+	<hanjaVO idx="868">
+		<h>續</h>
+		<k>속</k>
+		<m>이을 속</m>
+	</hanjaVO>
+	<hanjaVO idx="869">
+		<h>祭</h>
+		<k>제</k>
+		<m>제사 제</m>
+	</hanjaVO>
+	<hanjaVO idx="870">
+		<h>祀</h>
+		<k>사</k>
+		<m>제사 사</m>
+	</hanjaVO>
+	<hanjaVO idx="871">
+		<h>蒸</h>
+		<k>증</k>
+		<m>찔 증</m>
+	</hanjaVO>
+	<hanjaVO idx="872">
+		<h>嘗</h>
+		<k>상</k>
+		<m>맛볼 상</m>
+	</hanjaVO>
+	<hanjaVO idx="873">
+		<h>稽</h>
+		<k>계</k>
+		<m>조아릴 계</m>
+	</hanjaVO>
+	<hanjaVO idx="874">
+		<h>顙</h>
+		<k>상</k>
+		<m>이마 상</m>
+	</hanjaVO>
+	<hanjaVO idx="875">
+		<h>再</h>
+		<k>재</k>
+		<m>둘 재</m>
+	</hanjaVO>
+	<hanjaVO idx="876">
+		<h>拜</h>
+		<k>배</k>
+		<m>절 배</m>
+	</hanjaVO>
+	<hanjaVO idx="877">
+		<h>悚</h>
+		<k>송</k>
+		<m>두려워할 송</m>
+	</hanjaVO>
+	<hanjaVO idx="878">
+		<h>懼</h>
+		<k>구</k>
+		<m>두려워할 구</m>
+	</hanjaVO>
+	<hanjaVO idx="879">
+		<h>恐</h>
+		<k>공</k>
+		<m>두려워할 공</m>
+	</hanjaVO>
+	<hanjaVO idx="880">
+		<h>惶</h>
+		<k>황</k>
+		<m>두려워할 황</m>
+	</hanjaVO>
+	<hanjaVO idx="881">
+		<h>牋</h>
+		<k>전</k>
+		<m>편지 전</m>
+	</hanjaVO>
+	<hanjaVO idx="882">
+		<h>牒</h>
+		<k>첩</k>
+		<m>편지 첩</m>
+	</hanjaVO>
+	<hanjaVO idx="883">
+		<h>簡</h>
+		<k>간</k>
+		<m>편지 간</m>
+	</hanjaVO>
+	<hanjaVO idx="884">
+		<h>要</h>
+		<k>요</k>
+		<m>중요 요</m>
+	</hanjaVO>
+	<hanjaVO idx="885">
+		<h>顧</h>
+		<k>고</k>
+		<m>돌아볼 고</m>
+	</hanjaVO>
+	<hanjaVO idx="886">
+		<h>答</h>
+		<k>답</k>
+		<m>대답 답</m>
+	</hanjaVO>
+	<hanjaVO idx="887">
+		<h>審</h>
+		<k>심</k>
+		<m>살필 심</m>
+	</hanjaVO>
+	<hanjaVO idx="888">
+		<h>詳</h>
+		<k>상</k>
+		<m>자세할 상</m>
+	</hanjaVO>
+	<hanjaVO idx="889">
+		<h>骸</h>
+		<k>해</k>
+		<m>뼈 해</m>
+	</hanjaVO>
+	<hanjaVO idx="890">
+		<h>垢</h>
+		<k>구</k>
+		<m>때 구</m>
+	</hanjaVO>
+	<hanjaVO idx="891">
+		<h>想</h>
+		<k>상</k>
+		<m>생각할 상</m>
+	</hanjaVO>
+	<hanjaVO idx="892">
+		<h>浴</h>
+		<k>욕</k>
+		<m>목욕할 욕</m>
+	</hanjaVO>
+	<hanjaVO idx="893">
+		<h>執</h>
+		<k>집</k>
+		<m>잡을 집</m>
+	</hanjaVO>
+	<hanjaVO idx="894">
+		<h>熱</h>
+		<k>열</k>
+		<m>더울 열</m>
+	</hanjaVO>
+	<hanjaVO idx="895">
+		<h>願</h>
+		<k>원</k>
+		<m>원할 원</m>
+	</hanjaVO>
+	<hanjaVO idx="896">
+		<h>凉</h>
+		<k>량</k>
+		<m>서늘할 량</m>
+	</hanjaVO>
+	<hanjaVO idx="897">
+		<h>驢</h>
+		<k>여</k>
+		<m>나귀 려</m>
+	</hanjaVO>
+	<hanjaVO idx="898">
+		<h>騾</h>
+		<k>라</k>
+		<m>노새 라</m>
+	</hanjaVO>
+	<hanjaVO idx="899">
+		<h>犢</h>
+		<k>독</k>
+		<m>송아지 독</m>
+	</hanjaVO>
+	<hanjaVO idx="900">
+		<h>特</h>
+		<k>특</k>
+		<m>특별 특</m>
+	</hanjaVO>
+	<hanjaVO idx="901">
+		<h>駭</h>
+		<k>해</k>
+		<m>놀랄 해</m>
+	</hanjaVO>
+	<hanjaVO idx="902">
+		<h>躍</h>
+		<k>약</k>
+		<m>뛸 약</m>
+	</hanjaVO>
+	<hanjaVO idx="903">
+		<h>超</h>
+		<k>초</k>
+		<m>넘을 초</m>
+	</hanjaVO>
+	<hanjaVO idx="904">
+		<h>驤</h>
+		<k>양</k>
+		<m>달릴 양</m>
+	</hanjaVO>
+	<hanjaVO idx="905">
+		<h>誅</h>
+		<k>주</k>
+		<m>벨 주</m>
+	</hanjaVO>
+	<hanjaVO idx="906">
+		<h>斬</h>
+		<k>참</k>
+		<m>벨 참</m>
+	</hanjaVO>
+	<hanjaVO idx="907">
+		<h>賊</h>
+		<k>적</k>
+		<m>도적 적</m>
+	</hanjaVO>
+	<hanjaVO idx="908">
+		<h>盜</h>
+		<k>도</k>
+		<m>도적 도</m>
+	</hanjaVO>
+	<hanjaVO idx="909">
+		<h>捕</h>
+		<k>포</k>
+		<m>잡을 포</m>
+	</hanjaVO>
+	<hanjaVO idx="910">
+		<h>獲</h>
+		<k>획</k>
+		<m>얻을 획</m>
+	</hanjaVO>
+	<hanjaVO idx="911">
+		<h>叛</h>
+		<k>반</k>
+		<m>배반할 반</m>
+	</hanjaVO>
+	<hanjaVO idx="912">
+		<h>亡</h>
+		<k>망</k>
+		<m>망할 망/없을 무</m>
+	</hanjaVO>
+	<hanjaVO idx="913">
+		<h>布</h>
+		<k>포</k>
+		<m>베 포</m>
+	</hanjaVO>
+	<hanjaVO idx="914">
+		<h>射</h>
+		<k>사</k>
+		<m>쏠 사</m>
+	</hanjaVO>
+	<hanjaVO idx="915">
+		<h>僚</h>
+		<k>료</k>
+		<m>벗 료</m>
+	</hanjaVO>
+	<hanjaVO idx="916">
+		<h>丸</h>
+		<k>환</k>
+		<m>알 환</m>
+	</hanjaVO>
+	<hanjaVO idx="917">
+		<h>嵇</h>
+		<k>혜</k>
+		<m>산이름 혜</m>
+	</hanjaVO>
+	<hanjaVO idx="918">
+		<h>琴</h>
+		<k>금</k>
+		<m>거문고 금</m>
+	</hanjaVO>
+	<hanjaVO idx="919">
+		<h>阮</h>
+		<k>완</k>
+		<m>악기 완</m>
+	</hanjaVO>
+	<hanjaVO idx="920">
+		<h>嘯</h>
+		<k>소</k>
+		<m>휘파람 소</m>
+	</hanjaVO>
+	<hanjaVO idx="921">
+		<h>恬</h>
+		<k>염</k>
+		<m>편안 념</m>
+	</hanjaVO>
+	<hanjaVO idx="922">
+		<h>筆</h>
+		<k>필</k>
+		<m>붓 필</m>
+	</hanjaVO>
+	<hanjaVO idx="923">
+		<h>倫</h>
+		<k>륜</k>
+		<m>인륜 륜</m>
+	</hanjaVO>
+	<hanjaVO idx="924">
+		<h>紙</h>
+		<k>지</k>
+		<m>종이 지</m>
+	</hanjaVO>
+	<hanjaVO idx="925">
+		<h>鈞</h>
+		<k>균</k>
+		<m>고를 균</m>
+	</hanjaVO>
+	<hanjaVO idx="926">
+		<h>巧</h>
+		<k>교</k>
+		<m>공교할 교</m>
+	</hanjaVO>
+	<hanjaVO idx="927">
+		<h>任</h>
+		<k>임</k>
+		<m>맡길 임</m>
+	</hanjaVO>
+	<hanjaVO idx="928">
+		<h>釣</h>
+		<k>조</k>
+		<m>낚시 조</m>
+	</hanjaVO>
+	<hanjaVO idx="929">
+		<h>釋</h>
+		<k>석</k>
+		<m>놓을 석</m>
+	</hanjaVO>
+	<hanjaVO idx="930">
+		<h>紛</h>
+		<k>분</k>
+		<m>어지러울 분</m>
+	</hanjaVO>
+	<hanjaVO idx="931">
+		<h>利</h>
+		<k>리</k>
+		<m>이로울/날카로울 리</m>
+	</hanjaVO>
+	<hanjaVO idx="932">
+		<h>俗</h>
+		<k>속</k>
+		<m>풍속 속</m>
+	</hanjaVO>
+	<hanjaVO idx="933">
+		<h>竝</h>
+		<k>병</k>
+		<m>아우를 병</m>
+	</hanjaVO>
+	<hanjaVO idx="934">
+		<h>皆</h>
+		<k>개</k>
+		<m>다 개</m>
+	</hanjaVO>
+	<hanjaVO idx="935">
+		<h>佳</h>
+		<k>가</k>
+		<m>아름다울 가</m>
+	</hanjaVO>
+	<hanjaVO idx="936">
+		<h>妙</h>
+		<k>묘</k>
+		<m>묘할 묘</m>
+	</hanjaVO>
+	<hanjaVO idx="937">
+		<h>毛</h>
+		<k>모</k>
+		<m>털 모</m>
+	</hanjaVO>
+	<hanjaVO idx="938">
+		<h>施</h>
+		<k>시</k>
+		<m>베풀 시</m>
+	</hanjaVO>
+	<hanjaVO idx="939">
+		<h>淑</h>
+		<k>숙</k>
+		<m>맑을 숙</m>
+	</hanjaVO>
+	<hanjaVO idx="940">
+		<h>姿</h>
+		<k>자</k>
+		<m>모양 자</m>
+	</hanjaVO>
+	<hanjaVO idx="941">
+		<h>工</h>
+		<k>공</k>
+		<m>장인 공</m>
+	</hanjaVO>
+	<hanjaVO idx="942">
+		<h>顰</h>
+		<k>빈</k>
+		<m>찡그릴 빈</m>
+	</hanjaVO>
+	<hanjaVO idx="943">
+		<h>姸</h>
+		<k>연</k>
+		<m>고울 연</m>
+	</hanjaVO>
+	<hanjaVO idx="944">
+		<h>笑</h>
+		<k>소</k>
+		<m>웃을 소</m>
+	</hanjaVO>
+	<hanjaVO idx="945">
+		<h>年</h>
+		<k>연</k>
+		<m>해 년</m>
+	</hanjaVO>
+	<hanjaVO idx="946">
+		<h>矢</h>
+		<k>시</k>
+		<m>화살 시</m>
+	</hanjaVO>
+	<hanjaVO idx="947">
+		<h>每</h>
+		<k>매</k>
+		<m>매양 매</m>
+	</hanjaVO>
+	<hanjaVO idx="948">
+		<h>催</h>
+		<k>최</k>
+		<m>재촉 최</m>
+	</hanjaVO>
+	<hanjaVO idx="949">
+		<h>曦</h>
+		<k>희</k>
+		<m>햇빛 희</m>
+	</hanjaVO>
+	<hanjaVO idx="950">
+		<h>暉</h>
+		<k>휘</k>
+		<m>빛날 휘</m>
+	</hanjaVO>
+	<hanjaVO idx="951">
+		<h>朗</h>
+		<k>낭</k>
+		<m>밝을 랑</m>
+	</hanjaVO>
+	<hanjaVO idx="952">
+		<h>耀</h>
+		<k>요</k>
+		<m>빛날 요</m>
+	</hanjaVO>
+	<hanjaVO idx="953">
+		<h>璇</h>
+		<k>선</k>
+		<m>구슬 선</m>
+	</hanjaVO>
+	<hanjaVO idx="954">
+		<h>璣</h>
+		<k>기</k>
+		<m>구슬 기</m>
+	</hanjaVO>
+	<hanjaVO idx="955">
+		<h>懸</h>
+		<k>현</k>
+		<m>달 현</m>
+	</hanjaVO>
+	<hanjaVO idx="956">
+		<h>斡</h>
+		<k>알</k>
+		<m>빙빙돌 알</m>
+	</hanjaVO>
+	<hanjaVO idx="957">
+		<h>晦</h>
+		<k>회</k>
+		<m>그믐 회</m>
+	</hanjaVO>
+	<hanjaVO idx="958">
+		<h>魄</h>
+		<k>백</k>
+		<m>넋 백</m>
+	</hanjaVO>
+	<hanjaVO idx="959">
+		<h>環</h>
+		<k>환</k>
+		<m>고리 환</m>
+	</hanjaVO>
+	<hanjaVO idx="960">
+		<h>照</h>
+		<k>조</k>
+		<m>비칠 조</m>
+	</hanjaVO>
+	<hanjaVO idx="961">
+		<h>指</h>
+		<k>지</k>
+		<m>손가락 지</m>
+	</hanjaVO>
+	<hanjaVO idx="962">
+		<h>薪</h>
+		<k>신</k>
+		<m>섶나무 신</m>
+	</hanjaVO>
+	<hanjaVO idx="963">
+		<h>修</h>
+		<k>수</k>
+		<m>닦을 수</m>
+	</hanjaVO>
+	<hanjaVO idx="964">
+		<h>祐</h>
+		<k>우</k>
+		<m>복 우</m>
+	</hanjaVO>
+	<hanjaVO idx="965">
+		<h>永</h>
+		<k>영</k>
+		<m>길 영</m>
+	</hanjaVO>
+	<hanjaVO idx="966">
+		<h>綏</h>
+		<k>수</k>
+		<m>편안 수</m>
+	</hanjaVO>
+	<hanjaVO idx="967">
+		<h>吉</h>
+		<k>길</k>
+		<m>길할 길</m>
+	</hanjaVO>
+	<hanjaVO idx="968">
+		<h>劭</h>
+		<k>소</k>
+		<m>아름다울 소</m>
+	</hanjaVO>
+	<hanjaVO idx="969">
+		<h>矩</h>
+		<k>구</k>
+		<m>법 구</m>
+	</hanjaVO>
+	<hanjaVO idx="970">
+		<h>步</h>
+		<k>보</k>
+		<m>걸음 보</m>
+	</hanjaVO>
+	<hanjaVO idx="971">
+		<h>引</h>
+		<k>인</k>
+		<m>끌 인</m>
+	</hanjaVO>
+	<hanjaVO idx="972">
+		<h>領</h>
+		<k>령</k>
+		<m>거느릴 령</m>
+	</hanjaVO>
+	<hanjaVO idx="973">
+		<h>俯</h>
+		<k>부</k>
+		<m>굽을 부</m>
+	</hanjaVO>
+	<hanjaVO idx="974">
+		<h>仰</h>
+		<k>앙</k>
+		<m>우러를 앙</m>
+	</hanjaVO>
+	<hanjaVO idx="975">
+		<h>廊</h>
+		<k>낭</k>
+		<m>행랑 랑</m>
+	</hanjaVO>
+	<hanjaVO idx="976">
+		<h>廟</h>
+		<k>묘</k>
+		<m>사당 묘</m>
+	</hanjaVO>
+	<hanjaVO idx="977">
+		<h>束</h>
+		<k>속</k>
+		<m>묶을 속</m>
+	</hanjaVO>
+	<hanjaVO idx="978">
+		<h>帶</h>
+		<k>대</k>
+		<m>띠 대</m>
+	</hanjaVO>
+	<hanjaVO idx="979">
+		<h>矜</h>
+		<k>긍</k>
+		<m>자랑 긍</m>
+	</hanjaVO>
+	<hanjaVO idx="980">
+		<h>莊</h>
+		<k>장</k>
+		<m>씩씩할 장</m>
+	</hanjaVO>
+	<hanjaVO idx="981">
+		<h>徘</h>
+		<k>배</k>
+		<m>배회 배</m>
+	</hanjaVO>
+	<hanjaVO idx="982">
+		<h>徊</h>
+		<k>회</k>
+		<m>배회 회</m>
+	</hanjaVO>
+	<hanjaVO idx="983">
+		<h>瞻</h>
+		<k>첨</k>
+		<m>쳐다볼 첨</m>
+	</hanjaVO>
+	<hanjaVO idx="984">
+		<h>眺</h>
+		<k>조</k>
+		<m>바라볼 조</m>
+	</hanjaVO>
+	<hanjaVO idx="985">
+		<h>孤</h>
+		<k>고</k>
+		<m>외로울 고</m>
+	</hanjaVO>
+	<hanjaVO idx="986">
+		<h>陋</h>
+		<k>루</k>
+		<m>더러울 루</m>
+	</hanjaVO>
+	<hanjaVO idx="987">
+		<h>寡</h>
+		<k>과</k>
+		<m>적을 과</m>
+	</hanjaVO>
+	<hanjaVO idx="988">
+		<h>聞</h>
+		<k>문</k>
+		<m>들을 문</m>
+	</hanjaVO>
+	<hanjaVO idx="989">
+		<h>愚</h>
+		<k>우</k>
+		<m>어리석을 우</m>
+	</hanjaVO>
+	<hanjaVO idx="990">
+		<h>蒙</h>
+		<k>몽</k>
+		<m>어릴 몽</m>
+	</hanjaVO>
+	<hanjaVO idx="991">
+		<h>等</h>
+		<k>등</k>
+		<m>등급 등</m>
+	</hanjaVO>
+	<hanjaVO idx="992">
+		<h>誚</h>
+		<k>초</k>
+		<m>꾸짖을 초</m>
+	</hanjaVO>
+	<hanjaVO idx="993">
+		<h>謂</h>
+		<k>위</k>
+		<m>이를 위</m>
+	</hanjaVO>
+	<hanjaVO idx="994">
+		<h>語</h>
+		<k>어</k>
+		<m>말씀 어</m>
+	</hanjaVO>
+	<hanjaVO idx="995">
+		<h>助</h>
+		<k>조</k>
+		<m>도울 조</m>
+	</hanjaVO>
+	<hanjaVO idx="996">
+		<h>者</h>
+		<k>자</k>
+		<m>놈 자</m>
+	</hanjaVO>
+	<hanjaVO idx="997">
+		<h>焉</h>
+		<k>언</k>
+		<m>어찌 언</m>
+	</hanjaVO>
+	<hanjaVO idx="998">
+		<h>哉</h>
+		<k>재</k>
+		<m>어조사 재</m>
+	</hanjaVO>
+	<hanjaVO idx="999">
+		<h>乎</h>
+		<k>호</k>
+		<m>어조사 호</m>
+	</hanjaVO>
+	<hanjaVO idx="1000">
+		<h>也</h>
+		<k>야</k>
+		<m>어조사 야</m>
+	</hanjaVO>
+</hanjaList>
