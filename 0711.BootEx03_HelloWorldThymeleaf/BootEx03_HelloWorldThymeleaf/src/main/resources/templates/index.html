@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ko" xmlns="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+	<h2 th:text=${name}>여기에 이름</h2>
+	<hr />
+	<div th:text=${map.name}></div>
+	<div th:text=${map.age}></div>
+	<div th:text=${map.gender}></div>
+	<hr />
+	<div th:text=${vo.name}></div>
+	<div th:text=${vo.age}></div>
+	<div th:text=${vo.gender}></div>
+	<hr />
+	
+	<ul>
+		<th:block th:each="data:${hobby}">
+			<li th:text="${data}"/>
+		</th:block>
+	</ul>
+</body>
+</html>
