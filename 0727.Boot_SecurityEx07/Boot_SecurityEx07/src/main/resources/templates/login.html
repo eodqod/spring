@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Spring Security Example</title>
+</head>
+<body>
+	<div style="height: 100px; padding:5px; border: 1px solid gray;">
+		<div th:if="${error} or ${logout}" style="width: 98%; padding:5px; border: 1px solid gray;">
+			<span th:if="${error}">없는 아이디 또는 비번이 틀립니다.</span>
+			<span th:if="${logout}">성공적으로 로그아웃 했습니다. </span>
+		</div>
+		<form  action="/login" method="post">
+			<div>
+				<label> User Name : <input type="text" name="username" />
+				</label>
+			</div>
+			<div>
+				<label> Password: <input type="password" name="password" />
+				</label>
+			</div>
+			<div>
+				<input type="submit" value="로그인" />
+			</div>
+		</form>
+	</div>
+</body>
+</html>

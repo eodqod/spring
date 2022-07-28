@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko" 
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+	<meta charset="UTF-8" />
+	<title>Home</title>
+	<style type="text/css">
+		div {
+			border: 1px solid gray; padding: 5px; margin-bottom: 5px;
+		}
+	</style>
+</head>
+<body>
+	<h2>Spring Boot Security!!!!</h2>
+	<hr />
+	<b>서버시간 : <span th:text="${today}"></span></b> <br />
+	<hr />
+	
+	<fieldset>
+		<legend>시큐리티 정보</legend>
+		<div sec:authorize="isAuthenticated()">
+		  인증이 되었을때 이 내용이 보임
+		</div>
+		<div sec:authorize="hasRole('ROLE_ADMIN')">
+		  ROLE_ADMIN 권한이  있을 경우만 이 내용이 보임
+		</div>
+		<div sec:authorize="hasRole('ROLE_USER')">
+		  ROLE_USER 권한이  있을 경우만 이 내용이 보임
+		</div>
+		<div>
+		로그인 사용자 : <span sec:authentication="name">Bob</span> <br />
+		<!-- 
+		로그인 권  &nbsp;&nbsp;한 :  <span sec:authentication="principal.authorities">[ROLE_USER, ROLE_ADMIN]</span>
+		 -->
+		</div>
+		<div sec:authentication="principal"></div>
+	</fieldset>
+	<hr />
+	<a href="hello">회원 전용페이지 가기</a> 눌러봐~~~~
+	<br />
+	<a href="admin">관리자 전용페이지 가기</a> 눌러봐~~~~
+	<br />
+	<div th:unless="${userName}" style="border: none;">
+		<button onclick="location.href='login'">로그인</button>
+	</div>
+	<div th:if="${userName}" style="border: none;">
+		<form action="logout" method="post">
+			<input type="submit" value="로그아웃" />
+		</form>
+	</div>
+	<hr />
+</body>
+</html>

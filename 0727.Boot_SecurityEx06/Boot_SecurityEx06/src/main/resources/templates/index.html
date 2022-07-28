@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko" 
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+	<meta charset="UTF-8" />
+	<title>Home</title>
+	<style type="text/css">
+		div {
+			border: 1px solid gray; padding: 5px; margin-bottom: 5px;
+		}
+	</style>
+</head>
+<body>
+	<h2>Spring Boot Security!!!!</h2>
+	<hr />
+	<b>서버시간 : <span th:text="${today}"></span></b> <br />
+	<hr />
+	
+	<fieldset>
+		<legend>시큐리티 정보</legend>
+		<div sec:authorize="isAuthenticated()">
+		  인증이 되었을때 이 내용이 보임
+		</div>
+		<div sec:authorize="hasRole('ROLE_ADMIN')">
+		  ROLE_ADMIN 권한이  있을 경우만 이 내용이 보임
+		</div>
+		<div sec:authorize="hasRole('ROLE_USER')">
+		  ROLE_USER 권한이  있을 경우만 이 내용이 보임
+		</div>
+		<div>
+		로그인 사용자 : <span sec:authentication="name">Bob</span> <br />
+		로그인 권  &nbsp;&nbsp;한 :  <span sec:authentication="principal.authorities">[ROLE_USER, ROLE_ADMIN]</span>
+		</div>
+		<div sec:authentication="principal"></div>
+	</fieldset>
+</body>
+</html>
