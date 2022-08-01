@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+    	img {cursor:pointer;}
+    </style>
+</head>
+<body>
+    <h1>i18n 테스트</h1>
+    현재 로게일 : <span th:text="${#locale}"></span> <br /> <hr />
+	<img src="image/001.png" onclick="location.href='?locale=ko_KR'"/> &nbsp;
+	<img src="image/003.png" onclick="location.href='?locale=ko_KP'"/> &nbsp;
+	<img src="image/002.png" onclick="location.href='?locale=en_US'"/> &nbsp;
+	<img src="image/004.png" onclick="location.href='?locale=ja_JP'"/> <br />
+    <p th:text="#{product}"></p>
+    <p th:text="#{product.category}"></p>
+</body>
+</html>
