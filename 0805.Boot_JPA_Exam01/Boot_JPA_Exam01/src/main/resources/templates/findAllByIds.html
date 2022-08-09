@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+	<style type="text/css">
+		.info{
+			width: 98%; padding: 10px; margin: auto; border: 1px solid gray;
+			margin-bottom: 10px; font-size: 11pt; text-align: center; font-weight: bold;
+		}
+		.content{
+			width: 98%; padding: 2px; margin: auto; border: 0px solid gray;
+			margin-bottom: 2px; font-size: 11pt;
+		}
+	</style>
+</head>
+<body>
+	[<a href="/list">모두보기</a>] &nbsp;
+	<hr />
+	<th:block th:if="${#lists.isEmpty(list)}">
+		<div class="info">등록된 글이 없습니다.</div>
+	</th:block>
+	<th:block th:if="${!#lists.isEmpty(list)}">
+		<div th:text="${'전체 : ' + #lists.size(list)+'개'}" class="content" style="text-align: right;"></div>
+
+		<!-- th:with="totalCount=${#lists.size(list)} : 변수설정 totalCount = 리스트 개수 -->
+		<!-- th:each="vo, status: ${list}"  : 반복 설정, vo는 값, status는 반복 index, count..  -->
+		<th:block th:each="vo, status: ${list}"  th:with="totalCount=${#lists.size(list)}">
+			<div  class="content">
+				<span th:text='${(totalCount-status.index) + "(" + vo.idx + "). " + vo.name + "(" + vo.age +"세,"}'></span>
+				<span th:text='${vo.gender ? "남" : "여"}'></span>
+				<span th:text='${", " + #dates.format(vo.regDate, "yyyy-MM-dd[E] HH:mm:ss") + ")"}'></span>
+			</div>
+		</th:block>
+		<hr />
+	</th:block>	
+</body>
+</html>

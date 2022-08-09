@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+	<style type="text/css">
+		#info{
+			width: 90%; padding: 10px; margin: auto; border: 1px solid gray;
+			margin-bottom: 10px; font-size: 18pt;
+		}
+	</style>
+</head>
+<body>
+	<div>서버시간 : <span th:text="${today}">여기에 시간</span></div>
+	<a href="list">목록 보러 가기</a>
+</body>
+</html>
