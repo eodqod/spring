@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ko" 
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+	<meta charset="UTF-8" />
+	<title>Home</title>
+	<style type="text/css">
+		div {
+			border: 1px solid gray; padding: 5px; margin-bottom: 5px;
+		}
+	</style>
+</head>
+<body>
+	<h2>Spring Boot Security!!!!</h2>
+	<hr />
+	<img src="/images/linux.png"/> <br />
+	[<a href="/">홈으로</a>]
+	<hr />
+	<form action="/joinOk" method="post">
+	<input type="text" name="userid" required="required" placeholder="userid" /> <br />
+	<input type="password" name="password" required="required" placeholder="password" /> <br />
+	<input type="text" name="name" required="required" placeholder="name" /> <br />
+	<input type="submit" value="회원가입" />
+	</form>
+</body>
+</html>
